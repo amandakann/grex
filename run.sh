@@ -72,13 +72,13 @@ python autogramm_activation.py \
     --dep-filter=gov.upos=NOUN,dep.upos=ADJ \
     --feature-filter=gov.rel_synt
 
-# Table 3
-# python autogramm_activation.py \
-# 	--treebank /Users/amanda/data/sud-treebanks-v2.14 \
-# 	--json html/activation_comp_obj_head_after.json \
-# 	--error html/activation_comp_obj_head_after.txt \
-# 	--treebank-filter SUD_Wolof-WTB \
-#     --feature-name=gov.position \
-#     --feature-value=before_dep \
-#     --dep-filter=gov.rel_synt=comp:obj \
-#     --feature-filter=gov.rel_synt
+# Table 3 – not quite the same
+python autogramm_activation.py \
+	--treebank /Users/amanda/data/sud-treebanks-v2.14 \
+	--json html/table3.json \
+	--error html/table3.txt \
+	--treebank-filter SUD_Wolof-WTB \
+    --feature-name=gov.position \
+    --feature-value=before_dep \
+    --dep-filter=gov.rel_synt=comp:obj \
+    --feature-filter=gov.rel_synt
