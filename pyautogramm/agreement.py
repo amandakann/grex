@@ -3,6 +3,7 @@ import os
 import sys
 import glob
 import json
+import random
 
 import numpy as np
 from scipy.stats import chisquare
@@ -48,6 +49,8 @@ def morphological_agreement_rule_extractor(
         feature_predicate,
         feature_1_name,
         feature_2_name,
+        dep_constraint,
+        seed,
         alphas,
         max_degree=2,
         min_feature_occurence=5,
@@ -101,6 +104,14 @@ def morphological_agreement_rule_extractor(
 
         print("%s%s" % (output_pre, "Number of dependencies after filtering: %i / %i" % (len(filtered_deps), len(deps))), flush=True)
 
+        if dep_constraint > 0:
+            print("%s%s" % (output_pre, f"constraining data to {dep_constraint} dependencies (random seed {seed})"), flush=True)
+            if len(filtered_deps) < dep_constraint:
+                print(f"Treebank {treebank_name} has fewer dependencies than specified constraint! ({len(filtered_deps)} / {dep_constraint})", file=error_stream, flush=True)
+            else:
+                random.seed(a=seed)
+                filtered_deps = random.sample(population=filtered_deps, k=dep_constraint)
+
         # extract features
         print("%s%s" % (output_pre, "extracting features"), flush=True)
         feature_set = pyautogramm.features.FeatureSet()
@@ -139,6 +150,7 @@ def morphological_agreement_rule_extractor(
         extracted_data[treebank_name] = dict()
         extracted_data[treebank_name]["filtered_deps_len"] = len(filtered_deps)
         extracted_data[treebank_name]["n_yes"] = int(y.sum())
+        extracted_data[treebank_name]["seed"] = seed
         extracted_data[treebank_name]["intercepts"] = list()
 
         # extract rules

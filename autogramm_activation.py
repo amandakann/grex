@@ -17,6 +17,8 @@ if __name__ == "__main__":
     cmd.add_argument("--dep-filter", type=str, default="", required=False)
     cmd.add_argument("--feature-filter", type=str, default="", required=False)
     cmd.add_argument("--treebank-filter", type=str, default="")
+    cmd.add_argument("--dep-constraint", type=int, default=0, required=False) # specify number of dependencies to analyze
+    cmd.add_argument("--seed", default=16) # specify seed for random generator (only used to select dependencies for dep-constraint)
     cmd.add_argument("--alpha-start", type=float, default=0.1)
     cmd.add_argument("--alpha-end", type=float, default=0.001)
     cmd.add_argument("--alpha-num", type=int, default=100)
@@ -75,5 +77,7 @@ if __name__ == "__main__":
             feature_value=args.feature_value,
             alphas=np.linspace(args.alpha_start, args.alpha_end, args.alpha_num),
             treebank_filters=None if len(args.treebank_filter) == 0 else args.treebank_filter.split(","),
-            error_stream=error_stream
+            error_stream=error_stream,
+            dep_constraint=args.dep_constraint,
+            seed=args.seed
         )
