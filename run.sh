@@ -66,24 +66,24 @@
 # Table 2
 python autogramm_activation.py \
 	--treebank /Users/amanda/data/sud-treebanks-v2.14 \
-	--json html/table2_1k.json \
-	--error html/table2_1k.txt \
+	--json output/table2_15k_18.json \
+	--error output/table2_15k_18.txt \
 	--treebank-filter SUD_Spanish-AnCora \
     --feature-name=gov.position \
     --feature-value=after_dep \
     --dep-filter=gov.upos=NOUN,dep.upos=ADJ \
     --feature-filter=gov.rel_synt \
-    --dep-constraint=1000 \
-    --seed=16
+    --dep-constraint=15000 \
+    --seed=18
 
 # Table 3 – not quite the same
-python autogramm_activation.py \
-	--treebank /Users/amanda/data/sud-treebanks-v2.14 \
-	--json html/table3_1k.json \
-	--error html/table3_1k.txt \
-	--treebank-filter SUD_Wolof-WTB \
-    --feature-name=gov.position \
-    --feature-value=before_dep \
-    --dep-filter=gov.rel_synt=comp:obj \
-    --feature-filter=gov.rel_synt \
-    --dep-constraint=1000
+# python autogramm_activation.py \
+# 	--treebank /Users/amanda/data/sud-treebanks-v2.14 \
+# 	--json html/table3_1k.json \
+# 	--error html/table3_1k.txt \
+# 	--treebank-filter SUD_Wolof-WTB \
+#     --feature-name=gov.position \
+#     --feature-value=before_dep \
+#     --dep-filter=gov.rel_synt=comp:obj \
+#     --feature-filter=gov.rel_synt \
+#     --dep-constraint=1000
