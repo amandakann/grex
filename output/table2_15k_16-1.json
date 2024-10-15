@@ -1,0 +1,2483 @@
+{
+    "SUD_Spanish-AnCora": {
+        "filtered_deps_len": 15000,
+        "n_yes": 4162,
+        "seed": "16",
+        "intercepts": [
+            [
+                0.1,
+                -0.9570625496428288
+            ],
+            [
+                0.099,
+                -0.9570625496428322
+            ],
+            [
+                0.098,
+                -0.9570625496428271
+            ],
+            [
+                0.097,
+                -0.9570625496428331
+            ],
+            [
+                0.096,
+                -0.9570625496428298
+            ],
+            [
+                0.095,
+                -0.9570625496428322
+            ],
+            [
+                0.094,
+                -0.9570625496428329
+            ],
+            [
+                0.093,
+                -0.9570625496428318
+            ],
+            [
+                0.092,
+                -0.9570625496428293
+            ],
+            [
+                0.091,
+                -0.9570625496428291
+            ],
+            [
+                0.09000000000000001,
+                -0.9570625496428342
+            ],
+            [
+                0.08900000000000001,
+                -0.9570625496428276
+            ],
+            [
+                0.08800000000000001,
+                -0.9570625496428328
+            ],
+            [
+                0.08700000000000001,
+                -0.9570625496428331
+            ],
+            [
+                0.08600000000000001,
+                -0.9570625496428329
+            ],
+            [
+                0.085,
+                -0.9570625496428337
+            ],
+            [
+                0.084,
+                -0.9570625496428292
+            ],
+            [
+                0.083,
+                -0.9570625496428286
+            ],
+            [
+                0.082,
+                -0.9570625496428299
+            ],
+            [
+                0.081,
+                -0.9570625496428289
+            ],
+            [
+                0.08,
+                -0.9570625496428284
+            ],
+            [
+                0.079,
+                -0.9570625496428328
+            ],
+            [
+                0.07800000000000001,
+                -0.9570625496428291
+            ],
+            [
+                0.07700000000000001,
+                -0.9570625496428323
+            ],
+            [
+                0.07600000000000001,
+                -0.957062549642829
+            ],
+            [
+                0.07500000000000001,
+                -0.9570625496428322
+            ],
+            [
+                0.07400000000000001,
+                -0.957062549642832
+            ],
+            [
+                0.07300000000000001,
+                -0.9570625496428325
+            ],
+            [
+                0.07200000000000001,
+                -0.957062549642833
+            ],
+            [
+                0.07100000000000001,
+                -0.9570625496428291
+            ],
+            [
+                0.07,
+                -0.957062549642829
+            ],
+            [
+                0.069,
+                -0.9570625496428286
+            ],
+            [
+                0.068,
+                -0.9570625496428302
+            ],
+            [
+                0.067,
+                -0.9570625496428276
+            ],
+            [
+                0.066,
+                -0.9570625496428294
+            ],
+            [
+                0.065,
+                -0.9570625496428276
+            ],
+            [
+                0.064,
+                -0.957062549642827
+            ],
+            [
+                0.063,
+                -0.957062549642829
+            ],
+            [
+                0.062000000000000006,
+                -0.9570625496428269
+            ],
+            [
+                0.061000000000000006,
+                -0.957062549642832
+            ],
+            [
+                0.060000000000000005,
+                -0.957062549642829
+            ],
+            [
+                0.059000000000000004,
+                -0.9570625496428292
+            ],
+            [
+                0.058,
+                -0.9570625496428271
+            ],
+            [
+                0.057,
+                -0.9570625496428297
+            ],
+            [
+                0.05600000000000001,
+                -0.9570625496428271
+            ],
+            [
+                0.05500000000000001,
+                -0.9570625496428276
+            ],
+            [
+                0.054000000000000006,
+                -0.9570625496428329
+            ],
+            [
+                0.053000000000000005,
+                -0.9570625496428281
+            ],
+            [
+                0.052000000000000005,
+                -0.9570625496428316
+            ],
+            [
+                0.051000000000000004,
+                -0.9570625496428321
+            ],
+            [
+                0.05,
+                -0.9570625496428268
+            ],
+            [
+                0.049,
+                -0.9570625496428264
+            ],
+            [
+                0.048,
+                -0.9570625496428263
+            ],
+            [
+                0.04700000000000001,
+                -0.9570625496428268
+            ],
+            [
+                0.046000000000000006,
+                -0.9570625496428267
+            ],
+            [
+                0.045000000000000005,
+                -0.9570625496428266
+            ],
+            [
+                0.044000000000000004,
+                -0.9570625496428272
+            ],
+            [
+                0.043000000000000003,
+                -0.957062549642831
+            ],
+            [
+                0.042,
+                -0.9570625496428281
+            ],
+            [
+                0.041,
+                -0.9567548039717916
+            ],
+            [
+                0.04000000000000001,
+                -0.9626986615041383
+            ],
+            [
+                0.03900000000000001,
+                -0.9680123299961085
+            ],
+            [
+                0.038000000000000006,
+                -0.9733455976593999
+            ],
+            [
+                0.037000000000000005,
+                -0.9786863465213278
+            ],
+            [
+                0.036000000000000004,
+                -0.9840382935140835
+            ],
+            [
+                0.035,
+                -0.989364428098703
+            ],
+            [
+                0.034,
+                -0.9947946621848068
+            ],
+            [
+                0.033,
+                -1.0061319408060925
+            ],
+            [
+                0.032,
+                -1.0176254906930835
+            ],
+            [
+                0.031,
+                -1.0291596548457287
+            ],
+            [
+                0.03,
+                -1.040761890880987
+            ],
+            [
+                0.028999999999999998,
+                -1.0524484277636854
+            ],
+            [
+                0.027999999999999997,
+                -1.0641884096679346
+            ],
+            [
+                0.02700000000000001,
+                -1.0760052031982008
+            ],
+            [
+                0.02600000000000001,
+                -1.0879251465466058
+            ],
+            [
+                0.02500000000000001,
+                -1.099895502549883
+            ],
+            [
+                0.024000000000000007,
+                -1.1119788050436505
+            ],
+            [
+                0.023000000000000007,
+                -1.1222060801084353
+            ],
+            [
+                0.022000000000000006,
+                -1.1287450735100784
+            ],
+            [
+                0.021000000000000005,
+                -1.1353403328020812
+            ],
+            [
+                0.020000000000000004,
+                -1.14198529711258
+            ],
+            [
+                0.019000000000000003,
+                -1.1488280164128224
+            ],
+            [
+                0.018000000000000002,
+                -1.1557400897677657
+            ],
+            [
+                0.017,
+                -1.1627757696022223
+            ],
+            [
+                0.016,
+                -1.169935915735205
+            ],
+            [
+                0.015,
+                -1.1772739245779138
+            ],
+            [
+                0.013999999999999999,
+                -1.1847516934772215
+            ],
+            [
+                0.012999999999999998,
+                -1.1924044969324925
+            ],
+            [
+                0.01200000000000001,
+                -1.1924977247217248
+            ],
+            [
+                0.01100000000000001,
+                -1.191443444594387
+            ],
+            [
+                0.010000000000000009,
+                -1.1947447192261709
+            ],
+            [
+                0.009000000000000008,
+                -1.181609645891864
+            ],
+            [
+                0.008000000000000007,
+                -1.1619338457666406
+            ],
+            [
+                0.007000000000000006,
+                -1.1574609117319212
+            ],
+            [
+                0.006000000000000005,
+                -1.1585051921805345
+            ],
+            [
+                0.0050000000000000044,
+                -1.1541964557276867
+            ],
+            [
+                0.0040000000000000036,
+                -1.149314086071271
+            ],
+            [
+                0.0030000000000000027,
+                -1.0205905738262353
+            ],
+            [
+                0.0020000000000000018,
+                -0.7280949627108062
+            ],
+            [
+                0.001,
+                -0.4439546351558701
+            ]
+        ],
+        "rules": [
+            {
+                "pattern": "dep.NumType=Ord,dep.rel_synt=mod",
+                "n_pattern_occurence": 876.0,
+                "n_pattern_positive_occurence": 859.0,
+                "decision": "yes",
+                "alpha": 0.041,
+                "value": 0.0028386101240063244,
+                "coverage": 20.63911580970687,
+                "precision": 98.0593607305936,
+                "delta": 615.9392,
+                "g-statistic": 2045.9181737995445,
+                "p-value": 0.0,
+                "cramers_phi": 1.528241809875497
+            },
+            {
+                "pattern": "dep.rel_synt=mod,siblings.upos=ADP",
+                "n_pattern_occurence": 4210.0,
+                "n_pattern_positive_occurence": 1690.0,
+                "decision": "yes",
+                "alpha": 0.033,
+                "value": 0.021611698894942633,
+                "coverage": 40.605478135511774,
+                "precision": 40.142517814726844,
+                "delta": 521.8653333333334,
+                "g-statistic": 299.7142058236734,
+                "p-value": 0.0,
+                "cramers_phi": 0.2668164589394132
+            },
+            {
+                "pattern": "grandchildren.upos=ADP",
+                "n_pattern_occurence": 1424.0,
+                "n_pattern_positive_occurence": 16.0,
+                "decision": "no",
+                "alpha": 0.023000000000000007,
+                "value": -0.01809864012569551,
+                "coverage": 12.99132681306514,
+                "precision": 98.87640449438202,
+                "delta": -379.1125333333333,
+                "g-statistic": 780.7465263802175,
+                "p-value": 0.0,
+                "cramers_phi": 0.740457328306154
+            },
+            {
+                "pattern": "gov.in_upos=NOUN|PROPN|PRON,grandchildren.upos=ADP",
+                "n_pattern_occurence": 1424.0,
+                "n_pattern_positive_occurence": 16.0,
+                "decision": "no",
+                "alpha": 0.022000000000000006,
+                "value": -0.07370507779919544,
+                "coverage": 12.99132681306514,
+                "precision": 98.87640449438202,
+                "delta": -379.1125333333333,
+                "g-statistic": 780.7465263802175,
+                "p-value": 0.0,
+                "cramers_phi": 0.740457328306154
+            },
+            {
+                "pattern": "grandparent.position=before_gov,grandparent.upos=ADP",
+                "n_pattern_occurence": 7245.0,
+                "n_pattern_positive_occurence": 1787.0,
+                "decision": "no",
+                "alpha": 0.01200000000000001,
+                "value": -0.014815447174458957,
+                "coverage": 50.35984498985052,
+                "precision": 75.33471359558315,
+                "delta": -223.2460000000001,
+                "g-statistic": 35.152990525609226,
+                "p-value": 3.0479299084618106e-09,
+                "cramers_phi": 0.06965654728095631
+            },
+            {
+                "pattern": "dep.Degree=Cmp,dep.rel_synt=mod",
+                "n_pattern_occurence": 277.0,
+                "n_pattern_positive_occurence": 249.0,
+                "decision": "yes",
+                "alpha": 0.01100000000000001,
+                "value": 0.09584161291125337,
+                "coverage": 5.982700624699663,
+                "precision": 89.89169675090253,
+                "delta": 172.14173333333332,
+                "g-statistic": 475.2519607422366,
+                "p-value": 0.0,
+                "cramers_phi": 1.3098515372403707
+            },
+            {
+                "pattern": "dep.rel_synt=mod,siblings.lemmas_ADP=de",
+                "n_pattern_occurence": 3121.0,
+                "n_pattern_positive_occurence": 1301.0,
+                "decision": "yes",
+                "alpha": 0.01100000000000001,
+                "value": 0.013817532368760155,
+                "coverage": 31.259010091302258,
+                "precision": 41.68535725728933,
+                "delta": 435.0265333333333,
+                "g-statistic": 278.95914558761905,
+                "p-value": 0.0,
+                "cramers_phi": 0.29896711306839346
+            },
+            {
+                "pattern": "gov.Number=Sing,siblings.Definite=Def",
+                "n_pattern_occurence": 5575.0,
+                "n_pattern_positive_occurence": 1514.0,
+                "decision": "no",
+                "alpha": 0.010000000000000009,
+                "value": -0.002432934884831456,
+                "coverage": 37.470012917512456,
+                "precision": 72.84304932735427,
+                "delta": -32.87666666666678,
+                "g-statistic": 0.9713555806326296,
+                "p-value": 0.32434233356641173,
+                "cramers_phi": 0.013199779727966652
+            },
+            {
+                "pattern": "siblings.Person=3,siblings.upos=DET",
+                "n_pattern_occurence": 1592.0,
+                "n_pattern_positive_occurence": 618.0,
+                "decision": "yes",
+                "alpha": 0.010000000000000009,
+                "value": 0.009674236950630744,
+                "coverage": 14.848630466122057,
+                "precision": 38.81909547738693,
+                "delta": 176.2730666666667,
+                "g-statistic": 91.00772934235536,
+                "p-value": 0.0,
+                "cramers_phi": 0.23909341089759317
+            },
+            {
+                "pattern": "siblings.Person=3,siblings.rels_synt=det",
+                "n_pattern_occurence": 1592.0,
+                "n_pattern_positive_occurence": 618.0,
+                "decision": "yes",
+                "alpha": 0.010000000000000009,
+                "value": 0.00019410230501804016,
+                "coverage": 14.848630466122057,
+                "precision": 38.81909547738693,
+                "delta": 176.2730666666667,
+                "g-statistic": 91.00772934235536,
+                "p-value": 0.0,
+                "cramers_phi": 0.23909341089759317
+            },
+            {
+                "pattern": "grandparent.upos=ADP,siblings.lemmas_DET=el",
+                "n_pattern_occurence": 4144.0,
+                "n_pattern_positive_occurence": 1036.0,
+                "decision": "no",
+                "alpha": 0.010000000000000009,
+                "value": -0.007658546559516338,
+                "coverage": 28.676877652703453,
+                "precision": 75.0,
+                "delta": -113.82186666666666,
+                "g-statistic": 15.93174585098241,
+                "p-value": 6.56680112532948e-05,
+                "cramers_phi": 0.06200430037665498
+            },
+            {
+                "pattern": "grandparent.upos=ADP,siblings.Definite=Def",
+                "n_pattern_occurence": 4144.0,
+                "n_pattern_positive_occurence": 1036.0,
+                "decision": "no",
+                "alpha": 0.010000000000000009,
+                "value": -0.0032996882342408163,
+                "coverage": 28.676877652703453,
+                "precision": 75.0,
+                "delta": -113.82186666666666,
+                "g-statistic": 15.93174585098241,
+                "p-value": 6.56680112532948e-05,
+                "cramers_phi": 0.06200430037665498
+            },
+            {
+                "pattern": "gov.Number=Sing,siblings.lemmas_DET=el",
+                "n_pattern_occurence": 5571.0,
+                "n_pattern_positive_occurence": 1513.0,
+                "decision": "no",
+                "alpha": 0.009000000000000008,
+                "value": -0.015791874310402326,
+                "coverage": 37.4423325336778,
+                "precision": 72.84150062825346,
+                "delta": -32.7668000000001,
+                "g-statistic": 0.9655557816321166,
+                "p-value": 0.3257910607429161,
+                "cramers_phi": 0.013165037639640581
+            },
+            {
+                "pattern": "gov.Number=Plur,grandparent.position=before_gov",
+                "n_pattern_occurence": 4202.0,
+                "n_pattern_positive_occurence": 931.0,
+                "decision": "no",
+                "alpha": 0.009000000000000008,
+                "value": -0.024736356853739344,
+                "coverage": 30.180845174386416,
+                "precision": 77.84388386482627,
+                "delta": -234.91493333333324,
+                "g-statistic": 68.60081622344951,
+                "p-value": 1.1102230246251565e-16,
+                "cramers_phi": 0.1277722720464604
+            },
+            {
+                "pattern": "dep.rel_synt=mod,grandchildren.upos=ADP",
+                "n_pattern_occurence": 1382.0,
+                "n_pattern_positive_occurence": 12.0,
+                "decision": "no",
+                "alpha": 0.008000000000000007,
+                "value": -0.1254402849492895,
+                "coverage": 12.640708617826169,
+                "precision": 99.13169319826338,
+                "delta": -371.45893333333333,
+                "g-statistic": 783.4380022069771,
+                "p-value": 0.0,
+                "cramers_phi": 0.7529190671730386
+            },
+            {
+                "pattern": "dep.Degree=Cmp,gov.in_upos=NOUN|PROPN|PRON",
+                "n_pattern_occurence": 280.0,
+                "n_pattern_positive_occurence": 249.0,
+                "decision": "yes",
+                "alpha": 0.007000000000000006,
+                "value": 0.2594872837975195,
+                "coverage": 5.982700624699663,
+                "precision": 88.92857142857142,
+                "delta": 171.3093333333333,
+                "g-statistic": 463.72918584725966,
+                "p-value": 0.0,
+                "cramers_phi": 1.2869248865960332
+            },
+            {
+                "pattern": "dep.Gender=Masc,dep.Number=Sing",
+                "n_pattern_occurence": 3829.0,
+                "n_pattern_positive_occurence": 1248.0,
+                "decision": "yes",
+                "alpha": 0.007000000000000006,
+                "value": 0.022443647920944193,
+                "coverage": 29.98558385391639,
+                "precision": 32.59336641420737,
+                "delta": 185.58013333333338,
+                "g-statistic": 43.415090669155106,
+                "p-value": 4.427602728895863e-11,
+                "cramers_phi": 0.10648236123364606
+            },
+            {
+                "pattern": "dep.rel_synt=mod,grandparent.Number=Sing",
+                "n_pattern_occurence": 4134.0,
+                "n_pattern_positive_occurence": 1329.0,
+                "decision": "yes",
+                "alpha": 0.007000000000000006,
+                "value": 0.009503155661828133,
+                "coverage": 31.93176357520423,
+                "precision": 32.14804063860668,
+                "delta": 181.95280000000002,
+                "g-statistic": 38.763121466520964,
+                "p-value": 4.784829199522278e-10,
+                "cramers_phi": 0.09683316675335751
+            },
+            {
+                "pattern": "grandparent.lemma_ADP=de,grandparent.position=before_gov",
+                "n_pattern_occurence": 3244.0,
+                "n_pattern_positive_occurence": 665.0,
+                "decision": "no",
+                "alpha": 0.007000000000000006,
+                "value": -0.011372281712194177,
+                "coverage": 23.79590330319247,
+                "precision": 79.50061652281134,
+                "delta": -235.10186666666664,
+                "g-statistic": 90.41541180238082,
+                "p-value": 0.0,
+                "cramers_phi": 0.16694784196453558
+            },
+            {
+                "pattern": "siblings.rels_synt=mod,siblings.upos=DET",
+                "n_pattern_occurence": 2937.0,
+                "n_pattern_positive_occurence": 942.0,
+                "decision": "yes",
+                "alpha": 0.007000000000000006,
+                "value": 0.018899802222726803,
+                "coverage": 22.633349351273427,
+                "precision": 32.073544433094995,
+                "delta": 127.08040000000005,
+                "g-statistic": 26.627415415722144,
+                "p-value": 2.467179127663144e-07,
+                "cramers_phi": 0.0952165701891447
+            },
+            {
+                "pattern": "gov.in_upos=NOUN|PROPN|PRON,grandchildren.rels_synt=mod",
+                "n_pattern_occurence": 845.0,
+                "n_pattern_positive_occurence": 75.0,
+                "decision": "no",
+                "alpha": 0.006000000000000005,
+                "value": -0.0910057247141487,
+                "coverage": 7.104631850894999,
+                "precision": 91.12426035502959,
+                "delta": -159.45933333333332,
+                "g-statistic": 186.3811355277042,
+                "p-value": 0.0,
+                "cramers_phi": 0.4696481567695613
+            },
+            {
+                "pattern": "gov.Gender=Masc,grandparent.position=before_gov",
+                "n_pattern_occurence": 6788.0,
+                "n_pattern_positive_occurence": 1800.0,
+                "decision": "no",
+                "alpha": 0.006000000000000005,
+                "value": -0.0002959618495149974,
+                "coverage": 46.02325152242111,
+                "precision": 73.48261638185032,
+                "delta": -83.44373333333328,
+                "g-statistic": 5.164400714541946,
+                "p-value": 0.023054410456294083,
+                "cramers_phi": 0.02758284439701153
+            },
+            {
+                "pattern": "dep.Gender=Masc,siblings.Number=Sing",
+                "n_pattern_occurence": 3455.0,
+                "n_pattern_positive_occurence": 1126.0,
+                "decision": "yes",
+                "alpha": 0.006000000000000005,
+                "value": 0.01139874979853775,
+                "coverage": 27.054300816914946,
+                "precision": 32.5904486251809,
+                "delta": 167.35266666666666,
+                "g-statistic": 39.12804884679824,
+                "p-value": 3.969007345006048e-10,
+                "cramers_phi": 0.10641921968071584
+            },
+            {
+                "pattern": "dep.Degree=Cmp",
+                "n_pattern_occurence": 280.0,
+                "n_pattern_positive_occurence": 249.0,
+                "decision": "yes",
+                "alpha": 0.006000000000000005,
+                "value": 0.6250710516016296,
+                "coverage": 5.982700624699663,
+                "precision": 88.92857142857142,
+                "delta": 171.3093333333333,
+                "g-statistic": 463.72918584725966,
+                "p-value": 0.0,
+                "cramers_phi": 1.2869248865960332
+            },
+            {
+                "pattern": "grandchildren.rels_synt=mod",
+                "n_pattern_occurence": 845.0,
+                "n_pattern_positive_occurence": 75.0,
+                "decision": "no",
+                "alpha": 0.0050000000000000044,
+                "value": -0.1858161980759302,
+                "coverage": 7.104631850894999,
+                "precision": 91.12426035502959,
+                "delta": -159.45933333333332,
+                "g-statistic": 186.3811355277042,
+                "p-value": 0.0,
+                "cramers_phi": 0.4696481567695613
+            },
+            {
+                "pattern": "dep.rel_synt=mod,siblings.Number=Sing",
+                "n_pattern_occurence": 9310.0,
+                "n_pattern_positive_occurence": 2773.0,
+                "decision": "yes",
+                "alpha": 0.0050000000000000044,
+                "value": 0.01676835539127166,
+                "coverage": 66.62662181643441,
+                "precision": 29.785177228786253,
+                "delta": 189.78533333333326,
+                "g-statistic": 19.019390663699735,
+                "p-value": 1.2939681065748943e-05,
+                "cramers_phi": 0.04519844139554413
+            },
+            {
+                "pattern": "gov.Gender=Masc,siblings.Gender=Masc",
+                "n_pattern_occurence": 5573.0,
+                "n_pattern_positive_occurence": 1499.0,
+                "decision": "no",
+                "alpha": 0.0050000000000000044,
+                "value": -0.0218763082984976,
+                "coverage": 37.58996124746263,
+                "precision": 73.10245828099767,
+                "delta": -47.32173333333344,
+                "g-statistic": 2.0171409381510403,
+                "p-value": 0.15553174856160146,
+                "cramers_phi": 0.01902495333712597
+            },
+            {
+                "pattern": "dep.Shared=No,siblings.rels_synt=cc",
+                "n_pattern_occurence": 361.0,
+                "n_pattern_positive_occurence": 1.0,
+                "decision": "no",
+                "alpha": 0.0050000000000000044,
+                "value": -0.20675767248873633,
+                "coverage": 3.3216460601587006,
+                "precision": 99.7229916897507,
+                "delta": -99.16546666666666,
+                "g-statistic": 222.78316692400068,
+                "p-value": 0.0,
+                "cramers_phi": 0.7855748762632805
+            },
+            {
+                "pattern": "grandchildren.rels_synt=conj:coord",
+                "n_pattern_occurence": 516.0,
+                "n_pattern_positive_occurence": 66.0,
+                "decision": "no",
+                "alpha": 0.0030000000000000027,
+                "value": -0.020747749880639543,
+                "coverage": 4.152057575198376,
+                "precision": 87.20930232558139,
+                "delta": -77.1728,
+                "g-statistic": 67.09881047416451,
+                "p-value": 2.220446049250313e-16,
+                "cramers_phi": 0.360605677170085
+            },
+            {
+                "pattern": "grandchildren.upos=ADJ",
+                "n_pattern_occurence": 503.0,
+                "n_pattern_positive_occurence": 68.0,
+                "decision": "no",
+                "alpha": 0.0030000000000000027,
+                "value": -0.08675924505499832,
+                "coverage": 4.013655656025096,
+                "precision": 86.48111332007953,
+                "delta": -71.56573333333333,
+                "g-statistic": 58.5925920202627,
+                "p-value": 1.942890293094024e-14,
+                "cramers_phi": 0.34130084447870057
+            },
+            {
+                "pattern": "dep.Number=Sing,gov.Number=Sing",
+                "n_pattern_occurence": 10039.0,
+                "n_pattern_positive_occurence": 2905.0,
+                "decision": "yes",
+                "alpha": 0.0030000000000000027,
+                "value": -0.14741962491828867,
+                "coverage": 69.79817395482941,
+                "precision": 28.937145133977488,
+                "delta": 119.51213333333317,
+                "g-statistic": 7.03594061582624,
+                "p-value": 0.007988990326242895,
+                "cramers_phi": 0.02647377390614667
+            },
+            {
+                "pattern": "dep.Number=Sing,gov.Gender=Masc",
+                "n_pattern_occurence": 4985.0,
+                "n_pattern_positive_occurence": 1422.0,
+                "decision": "yes",
+                "alpha": 0.0030000000000000027,
+                "value": -0.053349516851091225,
+                "coverage": 34.166266218164346,
+                "precision": 28.525576730190572,
+                "delta": 38.82866666666678,
+                "g-statistic": 1.5000430032401582,
+                "p-value": 0.2206647452879722,
+                "cramers_phi": 0.017346796091843232
+            },
+            {
+                "pattern": "gov.Number=Sing,siblings.Gender=Masc",
+                "n_pattern_occurence": 4652.0,
+                "n_pattern_positive_occurence": 1271.0,
+                "decision": "no",
+                "alpha": 0.0030000000000000027,
+                "value": -0.0269737270513632,
+                "coverage": 31.195792581657134,
+                "precision": 72.67841788478074,
+                "delta": -19.774933333333365,
+                "g-statistic": 0.4206284855519571,
+                "p-value": 0.5166236086997615,
+                "cramers_phi": 0.009508882636821774
+            },
+            {
+                "pattern": "grandparent.Tense=Pres,siblings.upos=DET",
+                "n_pattern_occurence": 1927.0,
+                "n_pattern_positive_occurence": 534.0,
+                "decision": "no",
+                "alpha": 0.0030000000000000027,
+                "value": -0.0087183986042218,
+                "coverage": 12.852924893891862,
+                "precision": 72.28853139595226,
+                "delta": -0.6782666666666728,
+                "g-statistic": 0.0011911425075220583,
+                "p-value": 0.9724681298745769,
+                "cramers_phi": 0.0007862144188211326
+            },
+            {
+                "pattern": "grandparent.Tense=Pres,siblings.rels_synt=det",
+                "n_pattern_occurence": 1923.0,
+                "n_pattern_positive_occurence": 532.0,
+                "decision": "no",
+                "alpha": 0.0030000000000000027,
+                "value": -0.0011169991386463518,
+                "coverage": 12.834471304668757,
+                "precision": 72.33489339573583,
+                "delta": -1.568399999999997,
+                "g-statistic": 0.006384519173195491,
+                "p-value": 0.936314255672279,
+                "cramers_phi": 0.0018221094295822603
+            },
+            {
+                "pattern": "grandparent.position=before_gov,siblings.lemmas_ADP=de",
+                "n_pattern_occurence": 2945.0,
+                "n_pattern_positive_occurence": 1212.0,
+                "decision": "yes",
+                "alpha": 0.0030000000000000027,
+                "value": 0.04492661204157583,
+                "coverage": 29.120615088899566,
+                "precision": 41.154499151103565,
+                "delta": 394.8606666666667,
+                "g-statistic": 244.14148222732484,
+                "p-value": 0.0,
+                "cramers_phi": 0.2879241801650386
+            },
+            {
+                "pattern": "dep.rel_synt=mod,siblings.Poss=Yes",
+                "n_pattern_occurence": 657.0,
+                "n_pattern_positive_occurence": 304.0,
+                "decision": "yes",
+                "alpha": 0.0030000000000000027,
+                "value": 0.12969520508866594,
+                "coverage": 7.3041806823642474,
+                "precision": 46.27092846270928,
+                "delta": 121.70439999999999,
+                "g-statistic": 101.79576713916973,
+                "p-value": 0.0,
+                "cramers_phi": 0.39362454806442004
+            },
+            {
+                "pattern": "siblings.PronType=Art,siblings.rels_synt=mod",
+                "n_pattern_occurence": 2700.0,
+                "n_pattern_positive_occurence": 860.0,
+                "decision": "yes",
+                "alpha": 0.0030000000000000027,
+                "value": 0.030049003007404512,
+                "coverage": 20.663142719846228,
+                "precision": 31.851851851851855,
+                "delta": 110.84000000000003,
+                "g-statistic": 22.065596917294663,
+                "p-value": 2.6348997734793045e-06,
+                "cramers_phi": 0.09040156692614197
+            },
+            {
+                "pattern": "siblings.Number=Sing,siblings.rels_synt=mod",
+                "n_pattern_occurence": 2651.0,
+                "n_pattern_positive_occurence": 870.0,
+                "decision": "yes",
+                "alpha": 0.0030000000000000027,
+                "value": 0.004489252960354531,
+                "coverage": 20.90341182123979,
+                "precision": 32.817804602036965,
+                "delta": 134.4358666666667,
+                "g-statistic": 32.86108358893237,
+                "p-value": 9.898509900629904e-09,
+                "cramers_phi": 0.11133611842993053
+            },
+            {
+                "pattern": "gov.Number=Plur",
+                "n_pattern_occurence": 4446.0,
+                "n_pattern_positive_occurence": 1004.0,
+                "decision": "no",
+                "alpha": 0.0030000000000000027,
+                "value": -0.0355990951602386,
+                "coverage": 31.758627052961803,
+                "precision": 77.41790373369321,
+                "delta": -229.6168,
+                "g-statistic": 61.70434026702569,
+                "p-value": 3.9968028886505635e-15,
+                "cramers_phi": 0.11780755087606051
+            },
+            {
+                "pattern": "gov.Number=Plur,gov.in_upos=NOUN|PROPN|PRON",
+                "n_pattern_occurence": 4446.0,
+                "n_pattern_positive_occurence": 1004.0,
+                "decision": "no",
+                "alpha": 0.0030000000000000027,
+                "value": -0.0004218924178415878,
+                "coverage": 31.758627052961803,
+                "precision": 77.41790373369321,
+                "delta": -229.6168,
+                "g-statistic": 61.70434026702569,
+                "p-value": 3.9968028886505635e-15,
+                "cramers_phi": 0.11780755087606051
+            },
+            {
+                "pattern": "gov.Gender=Masc,grandparent.Person=3",
+                "n_pattern_occurence": 2152.0,
+                "n_pattern_positive_occurence": 593.0,
+                "decision": "no",
+                "alpha": 0.0030000000000000027,
+                "value": -0.011307767723624407,
+                "coverage": 14.384572799409485,
+                "precision": 72.44423791821562,
+                "delta": -4.108266666666623,
+                "g-statistic": 0.03917617215098179,
+                "p-value": 0.8431000547261938,
+                "cramers_phi": 0.004266677977343982
+            },
+            {
+                "pattern": "gov.Number=Plur,grandparent.Number=Plur",
+                "n_pattern_occurence": 1075.0,
+                "n_pattern_positive_occurence": 202.0,
+                "decision": "no",
+                "alpha": 0.0030000000000000027,
+                "value": -0.049114563480986695,
+                "coverage": 8.05499169588485,
+                "precision": 81.2093023255814,
+                "delta": -96.27666666666664,
+                "g-statistic": 46.561915214241495,
+                "p-value": 8.876899215692902e-12,
+                "cramers_phi": 0.2081187389487549
+            },
+            {
+                "pattern": "dep.VerbForm=Part,siblings.lemmas_DET=el",
+                "n_pattern_occurence": 1208.0,
+                "n_pattern_positive_occurence": 236.0,
+                "decision": "no",
+                "alpha": 0.0030000000000000027,
+                "value": 0.024645909215432638,
+                "coverage": 8.968444362428492,
+                "precision": 80.4635761589404,
+                "delta": -99.17973333333333,
+                "g-statistic": 43.63106809247398,
+                "p-value": 3.9649394878438216e-11,
+                "cramers_phi": 0.19004850394408723
+            },
+            {
+                "pattern": "dep.VerbForm=Part,siblings.Definite=Def",
+                "n_pattern_occurence": 1208.0,
+                "n_pattern_positive_occurence": 236.0,
+                "decision": "no",
+                "alpha": 0.0030000000000000027,
+                "value": 0.052445149080699804,
+                "coverage": 8.968444362428492,
+                "precision": 80.4635761589404,
+                "delta": -99.17973333333333,
+                "g-statistic": 43.63106809247398,
+                "p-value": 3.9649394878438216e-11,
+                "cramers_phi": 0.19004850394408723
+            },
+            {
+                "pattern": "grandchildren.upos=PUNCT",
+                "n_pattern_occurence": 521.0,
+                "n_pattern_positive_occurence": 27.0,
+                "decision": "no",
+                "alpha": 0.0020000000000000018,
+                "value": -0.016324151598271386,
+                "coverage": 4.558036538106662,
+                "precision": 94.81765834932821,
+                "delta": -117.56013333333334,
+                "g-statistic": 177.91150305874243,
+                "p-value": 0.0,
+                "cramers_phi": 0.5843635957286707
+            },
+            {
+                "pattern": "gov.Gender=Masc,siblings.PronType=Art",
+                "n_pattern_occurence": 5095.0,
+                "n_pattern_positive_occurence": 1383.0,
+                "decision": "no",
+                "alpha": 0.0020000000000000018,
+                "value": -0.0036372477387138294,
+                "coverage": 34.24986159808083,
+                "precision": 72.85574092247302,
+                "delta": -30.692666666666582,
+                "g-statistic": 0.9264336465235776,
+                "p-value": 0.3357913577049775,
+                "cramers_phi": 0.013484506767844592
+            },
+            {
+                "pattern": "grandparent.upos=VERB,siblings.Definite=Def",
+                "n_pattern_occurence": 2419.0,
+                "n_pattern_positive_occurence": 660.0,
+                "decision": "no",
+                "alpha": 0.0020000000000000018,
+                "value": -0.04320675884802097,
+                "coverage": 16.229931721719876,
+                "precision": 72.71599834642414,
+                "delta": -11.19186666666667,
+                "g-statistic": 0.2591793003086952,
+                "p-value": 0.610684547818944,
+                "cramers_phi": 0.010350997945005163
+            },
+            {
+                "pattern": "grandparent.upos=VERB,siblings.rels_synt=det",
+                "n_pattern_occurence": 3719.0,
+                "n_pattern_positive_occurence": 1090.0,
+                "decision": "yes",
+                "alpha": 0.0020000000000000018,
+                "value": -0.08030838950922545,
+                "coverage": 26.189332051898123,
+                "precision": 29.308954019897822,
+                "delta": 58.10146666666674,
+                "g-statistic": 4.477143799346907,
+                "p-value": 0.034351082408696665,
+                "cramers_phi": 0.0346966410022601
+            },
+            {
+                "pattern": "dep.Gender=Fem,grandparent.Number=Sing",
+                "n_pattern_occurence": 1167.0,
+                "n_pattern_positive_occurence": 398.0,
+                "decision": "yes",
+                "alpha": 0.0020000000000000018,
+                "value": 0.033630223433863765,
+                "coverage": 9.56271023546372,
+                "precision": 34.10454155955441,
+                "delta": 74.19639999999998,
+                "g-statistic": 22.56306960920852,
+                "p-value": 2.0335634477453013e-06,
+                "cramers_phi": 0.13904765326806512
+            },
+            {
+                "pattern": "gov.Gender=Fem,grandparent.position=before_gov",
+                "n_pattern_occurence": 6376.0,
+                "n_pattern_positive_occurence": 1704.0,
+                "decision": "no",
+                "alpha": 0.0020000000000000018,
+                "value": -0.025301399595944827,
+                "coverage": 43.1075844251707,
+                "precision": 73.27478042659975,
+                "delta": -65.12746666666658,
+                "g-statistic": 3.3439334477470237,
+                "p-value": 0.06745317927313565,
+                "cramers_phi": 0.02290101116505349
+            },
+            {
+                "pattern": "siblings.PronType=Art,siblings.lemmas_ADP=de",
+                "n_pattern_occurence": 2568.0,
+                "n_pattern_positive_occurence": 1064.0,
+                "decision": "yes",
+                "alpha": 0.0020000000000000018,
+                "value": 0.0351914858013004,
+                "coverage": 25.564632388274866,
+                "precision": 41.43302180685358,
+                "delta": 351.4656,
+                "g-statistic": 221.5457851414201,
+                "p-value": 0.0,
+                "cramers_phi": 0.29372048479108714
+            },
+            {
+                "pattern": "grandparent.Number=Sing,siblings.PronType=Art",
+                "n_pattern_occurence": 3315.0,
+                "n_pattern_positive_occurence": 1061.0,
+                "decision": "yes",
+                "alpha": 0.0020000000000000018,
+                "value": 0.0008020129375211557,
+                "coverage": 25.4925516578568,
+                "precision": 32.00603318250377,
+                "delta": 141.19799999999998,
+                "g-statistic": 29.13632661151214,
+                "p-value": 6.74601619010673e-08,
+                "cramers_phi": 0.0937509402450783
+            },
+            {
+                "pattern": "gov.in_upos=NOUN|PROPN|PRON,grandchildren.upos=PUNCT",
+                "n_pattern_occurence": 521.0,
+                "n_pattern_positive_occurence": 27.0,
+                "decision": "no",
+                "alpha": 0.0020000000000000018,
+                "value": -0.013722531891891432,
+                "coverage": 4.558036538106662,
+                "precision": 94.81765834932821,
+                "delta": -117.56013333333334,
+                "g-statistic": 177.91150305874243,
+                "p-value": 0.0,
+                "cramers_phi": 0.5843635957286707
+            },
+            {
+                "pattern": "grandchildren.rels_synt=punct,grandchildren.upos=PUNCT",
+                "n_pattern_occurence": 521.0,
+                "n_pattern_positive_occurence": 27.0,
+                "decision": "no",
+                "alpha": 0.0020000000000000018,
+                "value": -0.0032977299027734386,
+                "coverage": 4.558036538106662,
+                "precision": 94.81765834932821,
+                "delta": -117.56013333333334,
+                "g-statistic": 177.91150305874243,
+                "p-value": 0.0,
+                "cramers_phi": 0.5843635957286707
+            },
+            {
+                "pattern": "gov.in_upos=NOUN|PROPN|PRON,grandchildren.rels_synt=punct",
+                "n_pattern_occurence": 521.0,
+                "n_pattern_positive_occurence": 27.0,
+                "decision": "no",
+                "alpha": 0.0020000000000000018,
+                "value": -0.016137489884511802,
+                "coverage": 4.558036538106662,
+                "precision": 94.81765834932821,
+                "delta": -117.56013333333334,
+                "g-statistic": 177.91150305874243,
+                "p-value": 0.0,
+                "cramers_phi": 0.5843635957286707
+            },
+            {
+                "pattern": "dep.Number=Plur",
+                "n_pattern_occurence": 4416.0,
+                "n_pattern_positive_occurence": 998.0,
+                "decision": "no",
+                "alpha": 0.0020000000000000018,
+                "value": -0.08407919942513808,
+                "coverage": 31.537183982284557,
+                "precision": 77.40036231884058,
+                "delta": -227.29279999999994,
+                "g-statistic": 60.86271611589608,
+                "p-value": 6.106226635438361e-15,
+                "cramers_phi": 0.11739811736577035
+            },
+            {
+                "pattern": "dep.Number=Plur,grandparent.position=before_gov",
+                "n_pattern_occurence": 4173.0,
+                "n_pattern_positive_occurence": 925.0,
+                "decision": "no",
+                "alpha": 0.0020000000000000018,
+                "value": -0.048151092220318506,
+                "coverage": 29.968628898320727,
+                "precision": 77.83369278696381,
+                "delta": -232.86840000000007,
+                "g-statistic": 67.87285703091376,
+                "p-value": 2.220446049250313e-16,
+                "cramers_phi": 0.12753338091371777
+            },
+            {
+                "pattern": "grandparent.upos=ADP,siblings.Number=Plur",
+                "n_pattern_occurence": 1855.0,
+                "n_pattern_positive_occurence": 494.0,
+                "decision": "no",
+                "alpha": 0.0020000000000000018,
+                "value": 0.034640866432548184,
+                "coverage": 12.5576674663222,
+                "precision": 73.36927223719677,
+                "delta": -20.70066666666662,
+                "g-statistic": 1.1620328625182212,
+                "p-value": 0.28104434129902456,
+                "cramers_phi": 0.02502863979490033
+            },
+            {
+                "pattern": "gov.Gender=Fem,grandparent.lemma_ADP=de",
+                "n_pattern_occurence": 1546.0,
+                "n_pattern_positive_occurence": 294.0,
+                "decision": "no",
+                "alpha": 0.0020000000000000018,
+                "value": -0.01961651149234936,
+                "coverage": 11.551946853663038,
+                "precision": 80.98318240620958,
+                "delta": -134.96346666666665,
+                "g-statistic": 63.4721790206783,
+                "p-value": 1.6653345369377348e-15,
+                "cramers_phi": 0.20262216863328353
+            },
+            {
+                "pattern": "gov.Number=Plur,grandparent.VerbForm=Fin",
+                "n_pattern_occurence": 1127.0,
+                "n_pattern_positive_occurence": 242.0,
+                "decision": "no",
+                "alpha": 0.0020000000000000018,
+                "value": -0.03015887730835609,
+                "coverage": 8.165713231223473,
+                "precision": 78.52706299911269,
+                "delta": -70.70493333333332,
+                "g-statistic": 23.31879287967601,
+                "p-value": 1.372523819043181e-06,
+                "cramers_phi": 0.1438437758001618
+            },
+            {
+                "pattern": "siblings.Gender=Fem,siblings.rels_synt=mod",
+                "n_pattern_occurence": 1556.0,
+                "n_pattern_positive_occurence": 505.0,
+                "decision": "yes",
+                "alpha": 0.0020000000000000018,
+                "value": 0.045146758647744464,
+                "coverage": 12.13358962037482,
+                "precision": 32.455012853470436,
+                "delta": 73.26186666666666,
+                "g-statistic": 16.664139628156196,
+                "p-value": 4.461648804499063e-05,
+                "cramers_phi": 0.10348720357339977
+            },
+            {
+                "pattern": "dep.rel_synt=mod,siblings.rels_synt=cc",
+                "n_pattern_occurence": 566.0,
+                "n_pattern_positive_occurence": 141.0,
+                "decision": "no",
+                "alpha": 0.0020000000000000018,
+                "value": 0.043539881012146564,
+                "coverage": 3.9213877099095775,
+                "precision": 75.08833922261485,
+                "delta": -16.04613333333333,
+                "g-statistic": 2.3199129338155355,
+                "p-value": 0.12772717516653875,
+                "cramers_phi": 0.06402176272290219
+            },
+            {
+                "pattern": "grandparent.upos=VERB,siblings.rels_synt=udep",
+                "n_pattern_occurence": 1431.0,
+                "n_pattern_positive_occurence": 524.0,
+                "decision": "yes",
+                "alpha": 0.0020000000000000018,
+                "value": -0.006534302941465481,
+                "coverage": 12.590100913022587,
+                "precision": 36.617749825297,
+                "delta": 126.9452,
+                "g-statistic": 53.10919768812558,
+                "p-value": 3.155253835984695e-13,
+                "cramers_phi": 0.19264824342310546
+            },
+            {
+                "pattern": "gov.in_upos=NOUN|PROPN|PRON,grandchildren.rels_synt=conj:coord",
+                "n_pattern_occurence": 516.0,
+                "n_pattern_positive_occurence": 66.0,
+                "decision": "no",
+                "alpha": 0.0020000000000000018,
+                "value": -0.09631409189132073,
+                "coverage": 4.152057575198376,
+                "precision": 87.20930232558139,
+                "delta": -77.1728,
+                "g-statistic": 67.09881047416451,
+                "p-value": 2.220446049250313e-16,
+                "cramers_phi": 0.360605677170085
+            },
+            {
+                "pattern": "dep.Shared=No,siblings.upos=CCONJ",
+                "n_pattern_occurence": 348.0,
+                "n_pattern_positive_occurence": 0.0,
+                "decision": "no",
+                "alpha": 0.0020000000000000018,
+                "value": -0.0952645986006011,
+                "coverage": 3.2109245248200775,
+                "precision": 100.0,
+                "delta": -96.5584,
+                "g-statistic": 226.19423987496816,
+                "p-value": 0.0,
+                "cramers_phi": 0.8062155095981317
+            },
+            {
+                "pattern": "siblings.rels_synt=cc,siblings.upos=DET",
+                "n_pattern_occurence": 334.0,
+                "n_pattern_positive_occurence": 102.0,
+                "decision": "yes",
+                "alpha": 0.0020000000000000018,
+                "value": 0.1279219140107254,
+                "coverage": 2.45074483421432,
+                "precision": 30.538922155688624,
+                "delta": 9.326133333333331,
+                "g-statistic": 1.2736834900452043,
+                "p-value": 0.2590767954201322,
+                "cramers_phi": 0.06175292400275337
+            },
+            {
+                "pattern": "dep.Number=Sing,siblings.upos=PROPN",
+                "n_pattern_occurence": 595.0,
+                "n_pattern_positive_occurence": 125.0,
+                "decision": "no",
+                "alpha": 0.0020000000000000018,
+                "value": -0.0999344863138506,
+                "coverage": 4.336593467429415,
+                "precision": 78.99159663865547,
+                "delta": -40.09266666666667,
+                "g-statistic": 14.264933551616,
+                "p-value": 0.0001587958286608515,
+                "cramers_phi": 0.15483758664487793
+            },
+            {
+                "pattern": "dep.Degree=Sup,dep.rel_synt=mod",
+                "n_pattern_occurence": 79.0,
+                "n_pattern_positive_occurence": 54.0,
+                "decision": "yes",
+                "alpha": 0.0020000000000000018,
+                "value": 0.010412538802994531,
+                "coverage": 1.2974531475252282,
+                "precision": 68.35443037974683,
+                "delta": 32.080133333333336,
+                "g-statistic": 56.092776878599544,
+                "p-value": 6.916689443414725e-14,
+                "cramers_phi": 0.8426358349619482
+            },
+            {
+                "pattern": "grandchildren.rels_synt=udep",
+                "n_pattern_occurence": 881.0,
+                "n_pattern_positive_occurence": 9.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.05431266720830341,
+                "coverage": 8.045764901273298,
+                "precision": 98.97843359818388,
+                "delta": -235.44813333333335,
+                "g-statistic": 489.44580788937134,
+                "p-value": 0.0,
+                "cramers_phi": 0.7453570306679492
+            },
+            {
+                "pattern": "grandchildren.rels_synt=punct",
+                "n_pattern_occurence": 521.0,
+                "n_pattern_positive_occurence": 27.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.042358268108898256,
+                "coverage": 4.558036538106662,
+                "precision": 94.81765834932821,
+                "delta": -117.56013333333334,
+                "g-statistic": 177.91150305874243,
+                "p-value": 0.0,
+                "cramers_phi": 0.5843635957286707
+            },
+            {
+                "pattern": "siblings.NumType=Ord",
+                "n_pattern_occurence": 165.0,
+                "n_pattern_positive_occurence": 32.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.06538560937064697,
+                "coverage": 1.2271636833364088,
+                "precision": 80.60606060606061,
+                "delta": -13.781999999999996,
+                "g-statistic": 6.177244352251021,
+                "p-value": 0.012940365725805592,
+                "cramers_phi": 0.19348861609690918
+            },
+            {
+                "pattern": "gov.in_upos=NOUN|PROPN|PRON,grandchildren.rels_synt=udep",
+                "n_pattern_occurence": 881.0,
+                "n_pattern_positive_occurence": 9.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.027604845250701726,
+                "coverage": 8.045764901273298,
+                "precision": 98.97843359818388,
+                "delta": -235.44813333333335,
+                "g-statistic": 489.44580788937134,
+                "p-value": 0.0,
+                "cramers_phi": 0.7453570306679492
+            },
+            {
+                "pattern": "dep.Number=Sing,grandparent.position=before_gov",
+                "n_pattern_occurence": 9719.0,
+                "n_pattern_positive_occurence": 2809.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": -0.053285718950311665,
+                "coverage": 67.49159058145122,
+                "precision": 28.902150426998663,
+                "delta": 112.30146666666678,
+                "g-statistic": 6.41867786627505,
+                "p-value": 0.011292620356045502,
+                "cramers_phi": 0.02569874997365358
+            },
+            {
+                "pattern": "grandparent.lemma_ADP=en,grandparent.position=before_gov",
+                "n_pattern_occurence": 1367.0,
+                "n_pattern_positive_occurence": 415.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": -0.06057002868058571,
+                "coverage": 9.971167707832773,
+                "precision": 30.358449158741767,
+                "delta": 35.70306666666664,
+                "g-statistic": 4.566383546077357,
+                "p-value": 0.032605327762256886,
+                "cramers_phi": 0.05779655276394334
+            },
+            {
+                "pattern": "dep.Number=Sing,siblings.Gender=Masc",
+                "n_pattern_occurence": 4798.0,
+                "n_pattern_positive_occurence": 1354.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": -0.17565260891081586,
+                "coverage": 32.53243632868813,
+                "precision": 28.22009170487703,
+                "delta": 22.71493333333342,
+                "g-statistic": 0.5345468946482137,
+                "p-value": 0.4647014984403587,
+                "cramers_phi": 0.01055511048579222
+            },
+            {
+                "pattern": "siblings.Number=Sing,siblings.upos=DET",
+                "n_pattern_occurence": 9022.0,
+                "n_pattern_positive_occurence": 2684.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.1114101684614788,
+                "coverage": 64.48822681403172,
+                "precision": 29.749501219241854,
+                "delta": 180.69573333333346,
+                "g-statistic": 17.795917216003627,
+                "p-value": 2.4591035667875794e-05,
+                "cramers_phi": 0.04441286370439971
+            },
+            {
+                "pattern": "grandchildren.rels_synt=mod,siblings.lemmas_DET=uno",
+                "n_pattern_occurence": 245.0,
+                "n_pattern_positive_occurence": 6.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.4029678801025728,
+                "coverage": 2.2052039121609153,
+                "precision": 97.55102040816327,
+                "delta": -61.97933333333333,
+                "g-statistic": 114.36486601671322,
+                "p-value": 0.0,
+                "cramers_phi": 0.6832242468595422
+            },
+            {
+                "pattern": "grandchildren.rels_synt=mod,siblings.Definite=Ind",
+                "n_pattern_occurence": 245.0,
+                "n_pattern_positive_occurence": 6.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.004148190153781428,
+                "coverage": 2.2052039121609153,
+                "precision": 97.55102040816327,
+                "delta": -61.97933333333333,
+                "g-statistic": 114.36486601671322,
+                "p-value": 0.0,
+                "cramers_phi": 0.6832242468595422
+            },
+            {
+                "pattern": "grandchildren.rels_synt=mod,siblings.Number=Sing",
+                "n_pattern_occurence": 534.0,
+                "n_pattern_positive_occurence": 42.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.09606912158779601,
+                "coverage": 4.539582948883558,
+                "precision": 92.13483146067416,
+                "delta": -106.16720000000001,
+                "g-statistic": 133.28898107268552,
+                "p-value": 0.0,
+                "cramers_phi": 0.4996046771893239
+            },
+            {
+                "pattern": "gov.Gender=Masc,grandchildren.rels_synt=mod",
+                "n_pattern_occurence": 423.0,
+                "n_pattern_positive_occurence": 31.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.045871185007032966,
+                "coverage": 3.6169034877283632,
+                "precision": 92.67139479905437,
+                "delta": -86.3684,
+                "g-statistic": 112.58051451805558,
+                "p-value": 0.0,
+                "cramers_phi": 0.5158951331993357
+            },
+            {
+                "pattern": "grandparent.lemma_ADP=en,siblings.Number=Sing",
+                "n_pattern_occurence": 995.0,
+                "n_pattern_positive_occurence": 302.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": -0.041573197862627295,
+                "coverage": 7.2561268620855355,
+                "precision": 30.35175879396985,
+                "delta": 25.920666666666648,
+                "g-statistic": 3.3068816031976076,
+                "p-value": 0.06899029307799698,
+                "cramers_phi": 0.057649797039461145
+            },
+            {
+                "pattern": "dep.Number=Sing,siblings.lemmas_DET=el",
+                "n_pattern_occurence": 5721.0,
+                "n_pattern_positive_occurence": 1598.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": -0.09757810936076773,
+                "coverage": 38.39500240269101,
+                "precision": 27.93217968886558,
+                "delta": 10.613200000000006,
+                "g-statistic": 0.09807490516142103,
+                "p-value": 0.7541521688927173,
+                "cramers_phi": 0.004140406431605658
+            },
+            {
+                "pattern": "dep.Number=Sing,siblings.Definite=Def",
+                "n_pattern_occurence": 5725.0,
+                "n_pattern_positive_occurence": 1599.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": -0.14780617887122516,
+                "coverage": 38.419029312830375,
+                "precision": 27.930131004366814,
+                "delta": 10.50333333333333,
+                "g-statistic": 0.09598922666597676,
+                "p-value": 0.7566968668475258,
+                "cramers_phi": 0.0040947133168141945
+            },
+            {
+                "pattern": "grandparent.VerbForm=Inf,siblings.PronType=Art",
+                "n_pattern_occurence": 639.0,
+                "n_pattern_positive_occurence": 156.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.2061482795320992,
+                "coverage": 4.45654179737959,
+                "precision": 75.5868544600939,
+                "delta": -21.301199999999994,
+                "g-statistic": 3.63626995625656,
+                "p-value": 0.0565334585099152,
+                "cramers_phi": 0.07543582247066444
+            },
+            {
+                "pattern": "siblings.lemmas_DET=el,siblings.upos=PUNCT",
+                "n_pattern_occurence": 386.0,
+                "n_pattern_positive_occurence": 143.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.013489051245418854,
+                "coverage": 3.435848149927919,
+                "precision": 37.04663212435233,
+                "delta": 35.89786666666667,
+                "g-statistic": 15.708533650117884,
+                "p-value": 7.389005351621236e-05,
+                "cramers_phi": 0.20173171052512662
+            },
+            {
+                "pattern": "dep.rel_synt=mod,siblings.upos=PUNCT",
+                "n_pattern_occurence": 1097.0,
+                "n_pattern_positive_occurence": 322.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": -0.06591929077548417,
+                "coverage": 7.736665064872657,
+                "precision": 29.35278030993619,
+                "delta": 17.61906666666664,
+                "g-statistic": 1.395337815991756,
+                "p-value": 0.23750573453675816,
+                "cramers_phi": 0.03566451877873879
+            },
+            {
+                "pattern": "grandparent.upos=VERB,siblings.lemmas_DET=el",
+                "n_pattern_occurence": 2419.0,
+                "n_pattern_positive_occurence": 660.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.09289370223594573,
+                "coverage": 16.229931721719876,
+                "precision": 72.71599834642414,
+                "delta": -11.19186666666667,
+                "g-statistic": 0.2591793003086952,
+                "p-value": 0.610684547818944,
+                "cramers_phi": 0.010350997945005163
+            },
+            {
+                "pattern": "siblings.lemmas_DET=el,siblings.rels_synt=punct",
+                "n_pattern_occurence": 386.0,
+                "n_pattern_positive_occurence": 143.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.15468866800555942,
+                "coverage": 3.435848149927919,
+                "precision": 37.04663212435233,
+                "delta": 35.89786666666667,
+                "g-statistic": 15.708533650117884,
+                "p-value": 7.389005351621236e-05,
+                "cramers_phi": 0.20173171052512662
+            },
+            {
+                "pattern": "dep.rel_synt=mod,siblings.rels_synt=punct",
+                "n_pattern_occurence": 1097.0,
+                "n_pattern_positive_occurence": 322.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": -0.021781927958061387,
+                "coverage": 7.736665064872657,
+                "precision": 29.35278030993619,
+                "delta": 17.61906666666664,
+                "g-statistic": 1.395337815991756,
+                "p-value": 0.23750573453675816,
+                "cramers_phi": 0.03566451877873879
+            },
+            {
+                "pattern": "grandparent.Tense=Pres,siblings.Gender=Masc",
+                "n_pattern_occurence": 1034.0,
+                "n_pattern_positive_occurence": 261.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.0397538981288732,
+                "coverage": 7.132312234729656,
+                "precision": 74.75822050290135,
+                "delta": -25.90053333333333,
+                "g-statistic": 3.2996680709750237,
+                "p-value": 0.06929388423203853,
+                "cramers_phi": 0.05649042704008532
+            },
+            {
+                "pattern": "dep.Gender=Fem,gov.Gender=Fem",
+                "n_pattern_occurence": 4415.0,
+                "n_pattern_positive_occurence": 1262.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.05243087826936569,
+                "coverage": 30.32196059586737,
+                "precision": 28.584371460928654,
+                "delta": 36.984666666666726,
+                "g-statistic": 1.5360072154232942,
+                "p-value": 0.21521310297098384,
+                "cramers_phi": 0.01865225198359802
+            },
+            {
+                "pattern": "grandparent.position=before_gov,siblings.upos=ADP",
+                "n_pattern_occurence": 3964.0,
+                "n_pattern_positive_occurence": 1571.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.04528417605388767,
+                "coverage": 37.7462758289284,
+                "precision": 39.631685166498485,
+                "delta": 471.1221333333333,
+                "g-statistic": 260.0529204432346,
+                "p-value": 0.0,
+                "cramers_phi": 0.25613212035688787
+            },
+            {
+                "pattern": "grandparent.position=before_gov,siblings.rels_synt=udep",
+                "n_pattern_occurence": 3984.0,
+                "n_pattern_positive_occurence": 1560.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.037683868343716134,
+                "coverage": 37.481979817395484,
+                "precision": 39.1566265060241,
+                "delta": 454.5727999999999,
+                "g-statistic": 241.4436840136495,
+                "p-value": 0.0,
+                "cramers_phi": 0.2461774448254256
+            },
+            {
+                "pattern": "siblings.Gender=Fem,siblings.upos=DET",
+                "n_pattern_occurence": 4975.0,
+                "n_pattern_positive_occurence": 1359.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.013641679950121208,
+                "coverage": 33.36408931537184,
+                "precision": 72.68341708542714,
+                "delta": -21.39666666666676,
+                "g-statistic": 0.46049382654313187,
+                "p-value": 0.49739327310511405,
+                "cramers_phi": 0.009620892535232834
+            },
+            {
+                "pattern": "siblings.Gender=Masc,siblings.lemmas_ADP=de",
+                "n_pattern_occurence": 1456.0,
+                "n_pattern_positive_occurence": 615.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.03691981325673482,
+                "coverage": 14.77654973570399,
+                "precision": 42.239010989010985,
+                "delta": 211.00853333333333,
+                "g-statistic": 140.34040098588898,
+                "p-value": 0.0,
+                "cramers_phi": 0.3104635856904299
+            },
+            {
+                "pattern": "siblings.Gender=Fem,siblings.lemmas_DET=el",
+                "n_pattern_occurence": 3611.0,
+                "n_pattern_positive_occurence": 945.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.04512689810843734,
+                "coverage": 24.59863443439749,
+                "precision": 73.82996399889228,
+                "delta": -56.932133333333354,
+                "g-statistic": 4.531463598617215,
+                "p-value": 0.0332771461183482,
+                "cramers_phi": 0.03542464474302518
+            },
+            {
+                "pattern": "grandparent.Number=Sing,siblings.Person=3",
+                "n_pattern_occurence": 548.0,
+                "n_pattern_positive_occurence": 199.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": -0.09610370740631727,
+                "coverage": 4.78135511773186,
+                "precision": 36.31386861313868,
+                "delta": 46.948266666666655,
+                "g-statistic": 18.999711071547377,
+                "p-value": 1.3073824882803287e-05,
+                "cramers_phi": 0.18620151880426072
+            },
+            {
+                "pattern": "siblings.Shared=No,siblings.rels_synt=conj:coord",
+                "n_pattern_occurence": 227.0,
+                "n_pattern_positive_occurence": 55.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.3344248664855463,
+                "coverage": 1.5870086731869348,
+                "precision": 75.77092511013215,
+                "delta": -7.9849333333333306,
+                "g-statistic": 1.4405875488781916,
+                "p-value": 0.23004428593675097,
+                "cramers_phi": 0.07966304448017954
+            },
+            {
+                "pattern": "gov.Gender=Fem,siblings.rels_synt=det",
+                "n_pattern_occurence": 5090.0,
+                "n_pattern_positive_occurence": 1427.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": -0.02848873671655495,
+                "coverage": 34.28640076886113,
+                "precision": 28.035363457760315,
+                "delta": 14.694666666666762,
+                "g-statistic": 0.211159266403374,
+                "p-value": 0.6458602963713125,
+                "cramers_phi": 0.006440894433295684
+            },
+            {
+                "pattern": "gov.Gender=Fem,grandparent.Number=Sing",
+                "n_pattern_occurence": 1740.0,
+                "n_pattern_positive_occurence": 580.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.021851772696391436,
+                "coverage": 13.935607880826526,
+                "precision": 33.33333333333333,
+                "delta": 97.20800000000003,
+                "g-statistic": 26.094682748969074,
+                "p-value": 3.2507800840075873e-07,
+                "cramers_phi": 0.1224620108793046
+            },
+            {
+                "pattern": "grandparent.position=before_gov,siblings.upos=ADJ",
+                "n_pattern_occurence": 2326.0,
+                "n_pattern_positive_occurence": 672.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.02410169143917381,
+                "coverage": 16.146083613647285,
+                "precision": 28.890799656061912,
+                "delta": 26.612533333333317,
+                "g-statistic": 1.5062393538571501,
+                "p-value": 0.21971382559946973,
+                "cramers_phi": 0.02544732520745031
+            },
+            {
+                "pattern": "grandparent.position=before_gov,siblings.rels_synt=mod",
+                "n_pattern_occurence": 3589.0,
+                "n_pattern_positive_occurence": 1051.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.031447412417744416,
+                "coverage": 25.25228255646324,
+                "precision": 29.28392309835609,
+                "delta": 55.17213333333336,
+                "g-statistic": 4.18403289948163,
+                "p-value": 0.040806488400710106,
+                "cramers_phi": 0.03414371842369395
+            },
+            {
+                "pattern": "gov.Number=Sing,siblings.rels_synt=mod",
+                "n_pattern_occurence": 2510.0,
+                "n_pattern_positive_occurence": 824.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.0501597780901198,
+                "coverage": 19.79817395482941,
+                "precision": 32.82868525896414,
+                "delta": 127.55866666666668,
+                "g-statistic": 31.24485215638766,
+                "p-value": 2.2744981786892993e-08,
+                "cramers_phi": 0.11157126991065915
+            },
+            {
+                "pattern": "dep.VerbForm=Part,siblings.lemmas_DET=uno",
+                "n_pattern_occurence": 387.0,
+                "n_pattern_positive_occurence": 46.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.04395362606909986,
+                "coverage": 3.146336962539214,
+                "precision": 88.11369509043928,
+                "delta": -61.379599999999996,
+                "g-statistic": 57.35151284688686,
+                "p-value": 3.6415315207705135e-14,
+                "cramers_phi": 0.38496119757108843
+            },
+            {
+                "pattern": "dep.VerbForm=Part,siblings.Definite=Ind",
+                "n_pattern_occurence": 387.0,
+                "n_pattern_positive_occurence": 46.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.007534265236429694,
+                "coverage": 3.146336962539214,
+                "precision": 88.11369509043928,
+                "delta": -61.379599999999996,
+                "g-statistic": 57.35151284688686,
+                "p-value": 3.6415315207705135e-14,
+                "cramers_phi": 0.38496119757108843
+            },
+            {
+                "pattern": "dep.Number=Plur,gov.in_upos=NOUN|PROPN|PRON",
+                "n_pattern_occurence": 4416.0,
+                "n_pattern_positive_occurence": 998.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.10460535035520654,
+                "coverage": 31.537183982284557,
+                "precision": 77.40036231884058,
+                "delta": -227.29279999999994,
+                "g-statistic": 60.86271611589608,
+                "p-value": 6.106226635438361e-15,
+                "cramers_phi": 0.11739811736577035
+            },
+            {
+                "pattern": "siblings.lemmas_DET=el,siblings.rels_synt=mod",
+                "n_pattern_occurence": 1968.0,
+                "n_pattern_positive_occurence": 634.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.0828295457827641,
+                "coverage": 15.233061028351754,
+                "precision": 32.21544715447154,
+                "delta": 87.94560000000001,
+                "g-statistic": 19.014752432131072,
+                "p-value": 1.297117204490661e-05,
+                "cramers_phi": 0.09829530863298407
+            },
+            {
+                "pattern": "siblings.Number=Plur,siblings.rels_synt=mod",
+                "n_pattern_occurence": 1259.0,
+                "n_pattern_positive_occurence": 330.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": 0.026209155386651153,
+                "coverage": 8.571692194131758,
+                "precision": 73.78872120730739,
+                "delta": -19.330533333333335,
+                "g-statistic": 1.497864317197843,
+                "p-value": 0.22100026422763897,
+                "cramers_phi": 0.034492396707934636
+            },
+            {
+                "pattern": "dep.Gender=Masc,grandparent.Tense=Past",
+                "n_pattern_occurence": 686.0,
+                "n_pattern_positive_occurence": 215.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": -0.09253153579525866,
+                "coverage": 5.165785679961557,
+                "precision": 31.341107871720116,
+                "delta": 24.657866666666678,
+                "g-statistic": 4.3121988333830235,
+                "p-value": 0.03784002151079058,
+                "cramers_phi": 0.07928432461903143
+            },
+            {
+                "pattern": "grandparent.upos=ADP,siblings.upos=ADP",
+                "n_pattern_occurence": 1755.0,
+                "n_pattern_positive_occurence": 690.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.050882900460463815,
+                "coverage": 16.578567996155694,
+                "precision": 39.31623931623932,
+                "delta": 203.046,
+                "g-statistic": 109.27029906444089,
+                "p-value": 0.0,
+                "cramers_phi": 0.24952410438512165
+            },
+            {
+                "pattern": "dep.Number=Sing,grandparent.Tense=Past",
+                "n_pattern_occurence": 1276.0,
+                "n_pattern_positive_occurence": 408.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": -0.09495715893788169,
+                "coverage": 9.80297933685728,
+                "precision": 31.974921630094045,
+                "delta": 53.95253333333335,
+                "g-statistic": 11.054009945572998,
+                "p-value": 0.0008849558959032056,
+                "cramers_phi": 0.09307533077419022
+            },
+            {
+                "pattern": "grandparent.Tense=Past,siblings.rels_synt=det",
+                "n_pattern_occurence": 1418.0,
+                "n_pattern_positive_occurence": 448.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": -0.07224186348873099,
+                "coverage": 10.764055742431523,
+                "precision": 31.59379407616361,
+                "delta": 54.55226666666664,
+                "g-statistic": 10.194190039965262,
+                "p-value": 0.0014088382759193108,
+                "cramers_phi": 0.08478875284661515
+            },
+            {
+                "pattern": "dep.Number=Sing,grandparent.lemma_ADP=con",
+                "n_pattern_occurence": 420.0,
+                "n_pattern_positive_occurence": 133.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.032156635422808305,
+                "coverage": 3.1955790485343583,
+                "precision": 31.666666666666664,
+                "delta": 16.464,
+                "g-statistic": 3.133441884822431,
+                "p-value": 0.07670164510531541,
+                "cramers_phi": 0.08637462541883399
+            },
+            {
+                "pattern": "dep.rel_synt=mod,grandparent.lemma_ADP=con",
+                "n_pattern_occurence": 616.0,
+                "n_pattern_positive_occurence": 177.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.03146503926001329,
+                "coverage": 4.252763094666026,
+                "precision": 28.733766233766232,
+                "delta": 6.080533333333335,
+                "g-statistic": 0.2972480615077493,
+                "p-value": 0.5856128045842977,
+                "cramers_phi": 0.021966919547257803
+            },
+            {
+                "pattern": "grandparent.position=before_gov,siblings.upos=AUX",
+                "n_pattern_occurence": 287.0,
+                "n_pattern_positive_occurence": 103.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.0839993514901084,
+                "coverage": 2.474771744353676,
+                "precision": 35.88850174216028,
+                "delta": 23.367066666666673,
+                "g-statistic": 9.007914410977168,
+                "p-value": 0.002688129905497827,
+                "cramers_phi": 0.17716224587165796
+            },
+            {
+                "pattern": "grandparent.VerbForm=Fin,siblings.Number=Plur",
+                "n_pattern_occurence": 903.0,
+                "n_pattern_positive_occurence": 203.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.0482686830725612,
+                "coverage": 6.458756228086362,
+                "precision": 77.51937984496125,
+                "delta": -47.552400000000006,
+                "g-statistic": 13.041694713350921,
+                "p-value": 0.00030463231213462283,
+                "cramers_phi": 0.12017749291932882
+            },
+            {
+                "pattern": "grandparent.lemma_ADP=a,siblings.lemmas_DET=el",
+                "n_pattern_occurence": 633.0,
+                "n_pattern_positive_occurence": 126.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.008547655433087498,
+                "coverage": 4.677984868056837,
+                "precision": 80.09478672985783,
+                "delta": -49.63640000000001,
+                "g-statistic": 20.77697908136205,
+                "p-value": 5.1599503007038194e-06,
+                "cramers_phi": 0.18117127731544716
+            },
+            {
+                "pattern": "grandparent.lemma_ADP=a,siblings.Definite=Def",
+                "n_pattern_occurence": 633.0,
+                "n_pattern_positive_occurence": 126.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.011723116443477621,
+                "coverage": 4.677984868056837,
+                "precision": 80.09478672985783,
+                "delta": -49.63640000000001,
+                "g-statistic": 20.77697908136205,
+                "p-value": 5.1599503007038194e-06,
+                "cramers_phi": 0.18117127731544716
+            },
+            {
+                "pattern": "siblings.Tense=Pres,siblings.upos=VERB",
+                "n_pattern_occurence": 503.0,
+                "n_pattern_positive_occurence": 146.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": -0.029389055933231323,
+                "coverage": 3.5079288803459874,
+                "precision": 29.025844930417495,
+                "delta": 6.434266666666673,
+                "g-statistic": 0.4067676695603955,
+                "p-value": 0.5236146847159387,
+                "cramers_phi": 0.02843735641164092
+            },
+            {
+                "pattern": "dep.Gender=Masc,siblings.Poss=Yes",
+                "n_pattern_occurence": 209.0,
+                "n_pattern_positive_occurence": 118.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.06351288165521479,
+                "coverage": 2.8351753964440176,
+                "precision": 56.45933014354066,
+                "delta": 60.00946666666667,
+                "g-statistic": 75.47563365794198,
+                "p-value": 0.0,
+                "cramers_phi": 0.6009387936970432
+            },
+            {
+                "pattern": "gov.in_upos=NOUN|PROPN|PRON,grandchildren.upos=ADJ",
+                "n_pattern_occurence": 503.0,
+                "n_pattern_positive_occurence": 68.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.038947640572987496,
+                "coverage": 4.013655656025096,
+                "precision": 86.48111332007953,
+                "delta": -71.56573333333333,
+                "g-statistic": 58.5925920202627,
+                "p-value": 1.942890293094024e-14,
+                "cramers_phi": 0.34130084447870057
+            },
+            {
+                "pattern": "siblings.lemmas_ADP=de,siblings.upos=ADJ",
+                "n_pattern_occurence": 381.0,
+                "n_pattern_positive_occurence": 145.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": -0.1647264421467557,
+                "coverage": 3.4839019702066314,
+                "precision": 38.05774278215223,
+                "delta": 39.2852,
+                "g-statistic": 18.960164343742644,
+                "p-value": 1.3347629017501639e-05,
+                "cramers_phi": 0.22307893418242106
+            },
+            {
+                "pattern": "siblings.lemmas_ADP=de,siblings.rels_synt=mod",
+                "n_pattern_occurence": 614.0,
+                "n_pattern_positive_occurence": 251.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": -0.10263992036469832,
+                "coverage": 6.030754444978376,
+                "precision": 40.87947882736157,
+                "delta": 80.63546666666667,
+                "g-statistic": 48.89539846110839,
+                "p-value": 2.6998403512834557e-12,
+                "cramers_phi": 0.2821953214496287
+            },
+            {
+                "pattern": "siblings.lemmas_DET=uno,siblings.rels_synt=punct",
+                "n_pattern_occurence": 246.0,
+                "n_pattern_positive_occurence": 54.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.013795536014237608,
+                "coverage": 1.7715445654179738,
+                "precision": 78.04878048780488,
+                "delta": -14.256799999999998,
+                "g-statistic": 4.324089306992575,
+                "p-value": 0.03757651665477424,
+                "cramers_phi": 0.132580537066769
+            },
+            {
+                "pattern": "dep.VerbForm=Part,grandparent.Tense=Past",
+                "n_pattern_occurence": 290.0,
+                "n_pattern_positive_occurence": 84.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.09992244817790275,
+                "coverage": 2.0182604517059106,
+                "precision": 28.965517241379313,
+                "delta": 3.5346666666666664,
+                "g-statistic": 0.21301017506608344,
+                "p-value": 0.6444182210443354,
+                "cramers_phi": 0.027101989688129175
+            },
+            {
+                "pattern": "dep.Number=Sing,grandparent.Tense=Fut",
+                "n_pattern_occurence": 292.0,
+                "n_pattern_positive_occurence": 127.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.017463751717364306,
+                "coverage": 3.051417587698222,
+                "precision": 43.49315068493151,
+                "delta": 45.97973333333333,
+                "g-statistic": 33.05041090444706,
+                "p-value": 8.980006849235167e-09,
+                "cramers_phi": 0.3364317742334392
+            },
+            {
+                "pattern": "grandparent.Tense=Fut,siblings.upos=DET",
+                "n_pattern_occurence": 348.0,
+                "n_pattern_positive_occurence": 141.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.11079777261768642,
+                "coverage": 3.3877943296492075,
+                "precision": 40.51724137931034,
+                "delta": 44.441599999999994,
+                "g-statistic": 26.248878717079617,
+                "p-value": 3.0012903284859505e-07,
+                "cramers_phi": 0.27464124308887256
+            },
+            {
+                "pattern": "grandparent.Tense=Fut,siblings.Gender=Masc",
+                "n_pattern_occurence": 191.0,
+                "n_pattern_positive_occurence": 81.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.024404165116769072,
+                "coverage": 1.9461797212878422,
+                "precision": 42.40837696335078,
+                "delta": 28.003866666666667,
+                "g-statistic": 18.82899793546168,
+                "p-value": 1.4297674978069885e-05,
+                "cramers_phi": 0.31397633831765026
+            },
+            {
+                "pattern": "dep.VerbForm=Part,siblings.Number=Plur",
+                "n_pattern_occurence": 553.0,
+                "n_pattern_positive_occurence": 46.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.05411395091425736,
+                "coverage": 4.677984868056837,
+                "precision": 91.68173598553345,
+                "delta": -107.43906666666666,
+                "g-statistic": 130.64983605648834,
+                "p-value": 0.0,
+                "cramers_phi": 0.4860622231067167
+            },
+            {
+                "pattern": "dep.VerbForm=Part,gov.Number=Plur",
+                "n_pattern_occurence": 726.0,
+                "n_pattern_positive_occurence": 59.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.13131982285250676,
+                "coverage": 6.154272005905149,
+                "precision": 91.8732782369146,
+                "delta": -142.4408,
+                "g-statistic": 175.57010569649924,
+                "p-value": 0.0,
+                "cramers_phi": 0.4917642743330686
+            },
+            {
+                "pattern": "grandparent.lemma_AUX=ser,siblings.lemmas_DET=el",
+                "n_pattern_occurence": 500.0,
+                "n_pattern_positive_occurence": 210.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.09695812951375302,
+                "coverage": 5.045651129264776,
+                "precision": 42.0,
+                "delta": 71.26666666666668,
+                "g-statistic": 46.66607841857573,
+                "p-value": 8.41737790580055e-12,
+                "cramers_phi": 0.3055031208304613
+            },
+            {
+                "pattern": "grandparent.lemma_AUX=ser,siblings.Definite=Def",
+                "n_pattern_occurence": 504.0,
+                "n_pattern_positive_occurence": 211.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.04245096915352012,
+                "coverage": 5.069678039404132,
+                "precision": 41.86507936507937,
+                "delta": 71.1568,
+                "g-statistic": 46.18054089570229,
+                "p-value": 1.078426237199892e-11,
+                "cramers_phi": 0.3027012674779256
+            },
+            {
+                "pattern": "dep.NumType=Ord,grandparent.upos=ADP",
+                "n_pattern_occurence": 515.0,
+                "n_pattern_positive_occurence": 509.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.5352391772725779,
+                "coverage": 12.229697260932245,
+                "precision": 98.83495145631068,
+                "delta": 366.1046666666667,
+                "g-statistic": 1243.6726411301415,
+                "p-value": 0.0,
+                "cramers_phi": 1.5539943153987201
+            },
+            {
+                "pattern": "gov.in_upos=NOUN|PROPN|PRON,siblings.NumType=Ord",
+                "n_pattern_occurence": 165.0,
+                "n_pattern_positive_occurence": 32.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.06190273698888904,
+                "coverage": 1.2271636833364088,
+                "precision": 80.60606060606061,
+                "delta": -13.781999999999996,
+                "g-statistic": 6.177244352251021,
+                "p-value": 0.012940365725805592,
+                "cramers_phi": 0.19348861609690918
+            },
+            {
+                "pattern": "gov.AdvType=Tim,siblings.PronType=Art",
+                "n_pattern_occurence": 141.0,
+                "n_pattern_positive_occurence": 93.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.04732934226145058,
+                "coverage": 2.2345026429601154,
+                "precision": 65.95744680851064,
+                "delta": 53.8772,
+                "g-statistic": 88.80985118933799,
+                "p-value": 0.0,
+                "cramers_phi": 0.793635370074698
+            },
+            {
+                "pattern": "gov.AdvType=Tim,siblings.upos=DET",
+                "n_pattern_occurence": 141.0,
+                "n_pattern_positive_occurence": 93.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.14123913299074548,
+                "coverage": 2.2345026429601154,
+                "precision": 65.95744680851064,
+                "delta": 53.8772,
+                "g-statistic": 88.80985118933799,
+                "p-value": 0.0,
+                "cramers_phi": 0.793635370074698
+            },
+            {
+                "pattern": "gov.AdvType=Tim,siblings.rels_synt=det",
+                "n_pattern_occurence": 141.0,
+                "n_pattern_positive_occurence": 93.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.1896594431125332,
+                "coverage": 2.2345026429601154,
+                "precision": 65.95744680851064,
+                "delta": 53.8772,
+                "g-statistic": 88.80985118933799,
+                "p-value": 0.0,
+                "cramers_phi": 0.793635370074698
+            },
+            {
+                "pattern": "gov.AdvType=Tim,siblings.Gender=Masc",
+                "n_pattern_occurence": 141.0,
+                "n_pattern_positive_occurence": 93.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.02002274081195743,
+                "coverage": 2.2345026429601154,
+                "precision": 65.95744680851064,
+                "delta": 53.8772,
+                "g-statistic": 88.80985118933799,
+                "p-value": 0.0,
+                "cramers_phi": 0.793635370074698
+            },
+            {
+                "pattern": "grandparent.position=before_gov,siblings.PronType=Dem",
+                "n_pattern_occurence": 229.0,
+                "n_pattern_positive_occurence": 76.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.015984897125418507,
+                "coverage": 1.8260451705910619,
+                "precision": 33.18777292576419,
+                "delta": 12.460133333333332,
+                "g-statistic": 3.2605414888784576,
+                "p-value": 0.07096568875377329,
+                "cramers_phi": 0.11932381338407386
+            },
+            {
+                "pattern": "gov.Gender=Masc,siblings.upos=PROPN",
+                "n_pattern_occurence": 427.0,
+                "n_pattern_positive_occurence": 129.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.016365596102610125,
+                "coverage": 3.099471407976934,
+                "precision": 30.210772833723652,
+                "delta": 10.52173333333333,
+                "g-statistic": 1.2708925321644755,
+                "p-value": 0.2595993082462196,
+                "cramers_phi": 0.05455574319115529
+            },
+            {
+                "pattern": "siblings.Shared=No,siblings.rels_synt=cc",
+                "n_pattern_occurence": 264.0,
+                "n_pattern_positive_occurence": 95.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.21135945557945213,
+                "coverage": 2.2825564632388273,
+                "precision": 35.984848484848484,
+                "delta": 21.748800000000003,
+                "g-statistic": 8.478801179593704,
+                "p-value": 0.0035930880520985697,
+                "cramers_phi": 0.17921124723304796
+            },
+            {
+                "pattern": "grandparent.upos=ADP,siblings.rels_synt=conj:appos",
+                "n_pattern_occurence": 439.0,
+                "n_pattern_positive_occurence": 124.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.07848653396936722,
+                "coverage": 2.9793368572801535,
+                "precision": 28.246013667425967,
+                "delta": 2.192133333333331,
+                "g-statistic": 0.05440148034904757,
+                "p-value": 0.8155740767287736,
+                "cramers_phi": 0.01113199746396368
+            },
+            {
+                "pattern": "dep.Degree=Cmp,siblings.Definite=Def",
+                "n_pattern_occurence": 140.0,
+                "n_pattern_positive_occurence": 131.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 0.08481476331955728,
+                "coverage": 3.1475252282556467,
+                "precision": 93.57142857142857,
+                "delta": 92.15466666666666,
+                "g-statistic": 274.93998573165874,
+                "p-value": 0.0,
+                "cramers_phi": 1.4013768375923799
+            },
+            {
+                "pattern": "grandparent.lemma_ADP=en,siblings.lemmas_ADP=de",
+                "n_pattern_occurence": 344.0,
+                "n_pattern_positive_occurence": 133.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": -0.06783706812548301,
+                "coverage": 3.1955790485343583,
+                "precision": 38.662790697674424,
+                "delta": 37.55146666666667,
+                "g-statistic": 19.12853752417001,
+                "p-value": 1.2220394177586691e-05,
+                "cramers_phi": 0.23580969813188846
+            },
+            {
+                "pattern": "siblings.PronType=Ind,siblings.upos=DET",
+                "n_pattern_occurence": 207.0,
+                "n_pattern_positive_occurence": 27.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.10327772323636653,
+                "coverage": 1.6608230300793503,
+                "precision": 86.95652173913044,
+                "delta": -30.4356,
+                "g-statistic": 25.922038846891652,
+                "p-value": 3.5548733656742826e-07,
+                "cramers_phi": 0.3538746117005851
+            },
+            {
+                "pattern": "gov.Number=Plur,siblings.NumType=Card",
+                "n_pattern_occurence": 260.0,
+                "n_pattern_positive_occurence": 32.0,
+                "decision": "no",
+                "alpha": 0.001,
+                "value": -0.18784855246513316,
+                "coverage": 2.103709171433844,
+                "precision": 87.6923076923077,
+                "delta": -40.141333333333336,
+                "g-statistic": 36.281968859681335,
+                "p-value": 1.7073621405572226e-09,
+                "cramers_phi": 0.3735586086221243
+            },
+            {
+                "pattern": "dep.Shared=No,siblings.rels_synt=conj:coord",
+                "n_pattern_occurence": 55.0,
+                "n_pattern_positive_occurence": 55.0,
+                "decision": "yes",
+                "alpha": 0.001,
+                "value": 1.6385484929121512,
+                "coverage": 1.3214800576645842,
+                "precision": 100.0,
+                "delta": 39.739333333333335,
+                "g-statistic": 141.02599204438442,
+                "p-value": 0.0,
+                "cramers_phi": 1.6012835308781312
+            }
+        ]
+    }
+}

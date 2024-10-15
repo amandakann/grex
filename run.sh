@@ -66,15 +66,15 @@
 # Table 2
 python autogramm_activation.py \
 	--treebank /Users/amanda/data/sud-treebanks-v2.14 \
-	--json output/table2_15k_18.json \
-	--error output/table2_15k_18.txt \
+	--json output/table2_15k_16-1.json \
+	--error output/table2_15k_16-1.txt \
 	--treebank-filter SUD_Spanish-AnCora \
     --feature-name=gov.position \
     --feature-value=after_dep \
     --dep-filter=gov.upos=NOUN,dep.upos=ADJ \
     --feature-filter=gov.rel_synt \
     --dep-constraint=15000 \
-    --seed=18
+    --seed=16
 
 # Table 3 – not quite the same
 # python autogramm_activation.py \
