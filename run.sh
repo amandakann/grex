@@ -74,7 +74,7 @@ python autogramm_activation.py \
     --dep-filter=gov.upos=NOUN,dep.upos=ADJ \
     --feature-filter=gov.rel_synt \
     --dep-constraint=15000 \
-    --seed=16
+    --seed=16 \
     --splits=3
 
 # Table 3 – not quite the same
