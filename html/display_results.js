@@ -136,7 +136,7 @@ function load_results(url, text) {
                                                 },
                                             },
                                             {
-                                                title: 'prevision',
+                                                title: 'precision',
                                                 field: 'precision',
                                                 formatter: function(value, row, index, field)
                                                 {

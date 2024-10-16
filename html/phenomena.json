@@ -1,0 +1,7 @@
+{
+    "Noun/adjective order":
+    {
+        "file": "./data/table2_1k.json",
+        "text": "<p>Rules for order of a <b>governing</b> noun and a <b>dependent</b> adjective, corresponding to table 2 in Herrera et al (2024). Decision 'yes' = prenominal adjective.</p>"
+    }
+}

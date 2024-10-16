@@ -66,8 +66,8 @@
 # Table 2
 python autogramm_activation.py \
 	--treebank /Users/amanda/data/sud-treebanks-v2.14 \
-	--json output/table2_15k_16split.json \
-	--error output/table2_15k_16split.txt \
+	--json output/table2_15k_test.json \
+	--error output/table2_15k_test.txt \
 	--treebank-filter SUD_Spanish-AnCora \
     --feature-name=gov.position \
     --feature-value=after_dep \
