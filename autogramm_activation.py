@@ -20,6 +20,7 @@ if __name__ == "__main__":
     cmd.add_argument("--dep-constraint", type=int, default=0, required=False) # specify number of dependencies to analyze
     cmd.add_argument("--seed", default=16) # specify seed for random generator (only used to select dependencies for dep-constraint)
     cmd.add_argument("--splits", type=int, default=1, required=False) # specify number of equally sized chunks to split dependencies into
+    cmd.add_argument("--supplement", action='store_true') # include to generate supplement json file with additional information for replication purposes
     cmd.add_argument("--alpha-start", type=float, default=0.1)
     cmd.add_argument("--alpha-end", type=float, default=0.001)
     cmd.add_argument("--alpha-num", type=int, default=100)
@@ -43,6 +44,18 @@ if __name__ == "__main__":
         feature_filter = []
     else:
         feature_filter = args.feature_filter.split(",")
+
+    if args.supplement:
+        supplement_info = dict(
+            feature_name=args.feature_name,
+            feature_value=args.feature_value,
+            dep_filters=dep_filters,
+            feature_filter=feature_filter,
+            seed=args.seed
+        )
+    else:
+        supplement_info = None
+
 
     with ExitStack() as stack:
         if len(args.error) > 0:
@@ -81,5 +94,6 @@ if __name__ == "__main__":
             error_stream=error_stream,
             dep_constraint=args.dep_constraint,
             seed=args.seed,
-            splits=args.splits
+            splits=args.splits,
+            supplement_info=supplement_info
         )

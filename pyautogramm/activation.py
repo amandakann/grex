@@ -138,7 +138,8 @@ def feature_activation_rule_extractor(
         max_degree=2,
         min_feature_occurence=5,
         treebank_filters=None,
-        error_stream=sys.stderr
+        error_stream=sys.stderr,
+        supplement_info=None,
 ):
     treebank_paths = glob.glob(os.path.join(sud_path, "*"))
 
@@ -147,6 +148,8 @@ def feature_activation_rule_extractor(
         treebank_paths = [path for path in treebank_paths if any(path.find(f) > 0 for f in treebank_filters)]
 
     extracted_data = dict()
+    if supplement_info:
+        supplement_data = dict()
     for i, treebank_path in enumerate(treebank_paths):
         treebank_name = os.path.basename(treebank_path)
 
@@ -163,6 +166,9 @@ def feature_activation_rule_extractor(
         deps = list()
         for conllu_path in conllu_paths:
             data = pyautogramm.data.read(conllu_path)
+            # for word in data[0]:
+            #     print(f'{word}\n')
+            # sys.exit(0) 
             deps.extend(
                 pyautogramm.data.extract_dependencies(
                     data,
@@ -171,6 +177,10 @@ def feature_activation_rule_extractor(
                     add_similar_pos_tags=True
                 )
             )
+            # print(len(deps))
+            # for dep in deps[1].items():
+            #     print(f'{dep[0]}: {dep[1]}\n')
+            # sys.exit(0)
 
         # filter deps
         print("%s%s" % (output_pre, "filtering dependencies"), flush=True)
@@ -193,7 +203,7 @@ def feature_activation_rule_extractor(
                 random.seed(a=seed)
                 filtered_deps = random.sample(population=filtered_deps, k=dep_constraint)
 
-        # Split filtered_deps into 3 equal parts
+        # split filtered_deps into equal parts, if splits is specified
         if splits > 1:
             split_size = len(filtered_deps) // splits
             print(f"splitting data into {splits} parts of size {split_size}", flush=True)
@@ -202,6 +212,9 @@ def feature_activation_rule_extractor(
                 print(f"extracting features for split {j+1} / {splits}", flush=True)
                 try:
                     extracted_data[treebank_name + f"_{j+1}"] = extractor(split, feature_predicate, feature_name, feature_value, alphas, seed, max_degree, min_feature_occurence)
+                    if supplement_info:
+                        supplement_data[treebank_name + f"_{j+1}"] = supplement_info
+                        supplement_data[treebank_name + f"_{j+1}"]["sent_ids"] = list({dep["sent_id"] for dep in split})
                 except RuntimeError:
                     print(f"Skipping treebank {treebank_name} (split {j+1}) because there is no extracted feature!", file=error_stream, flush=True)
                     continue
@@ -211,6 +224,9 @@ def feature_activation_rule_extractor(
             print("%s%s" % (output_pre, "extracting features"), flush=True)
             try:
                 extracted_data[treebank_name] = extractor(filtered_deps, feature_predicate, feature_name, feature_value, alphas, seed, max_degree, min_feature_occurence)
+                if supplement_info:
+                    supplement_data[treebank_name] = supplement_info
+                    supplement_data[treebank_name]["sent_ids"] = list({dep["sent_id"] for dep in split})
             except RuntimeError:
                 print("Skipping treebank %s because there is no extracted feature!" % treebank_name, file=error_stream, flush=True)
                 continue
@@ -219,3 +235,6 @@ def feature_activation_rule_extractor(
     print("Done.", flush=True)
     with open(output_path, 'w') as out_stream:
         json.dump(extracted_data, out_stream)
+    if supplement_info:
+        with open(output_path[:-5] + '_supplement.json', 'w') as out_stream:
+            json.dump(supplement_data, out_stream)

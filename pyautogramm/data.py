@@ -38,12 +38,17 @@ def read(path):
     data = list()
     with open(path) as istream:
         need_new = True
+        sent_id = ''
         for line in istream:
             line = line.strip()
             if len(line) == 0:
                 need_new = True
+                sent_id = ''
                 continue
             if line[0] == "#":
+                commentline = line.split(' ')
+                if commentline[1] == 'sent_id':
+                    sent_id = ' '.join(commentline[3:])
                 continue
 
             line = line.split("\t")
@@ -63,11 +68,13 @@ def read(path):
 
             data[-1].append({
                 "idx": len(data[-1]) + 1,
+                "form": line[1],
                 "lemma": line[2],
                 "upos": line[3],
                 "head": int(line[6]),
                 "dep.rel": line[7],
-                "feats": feats
+                "feats": feats,
+                "sent_id": sent_id
             })
 
     return data
@@ -213,6 +220,9 @@ def extract_dependencies(data, split_head_rel=True, add_closed_pos_tags_lemma=Fa
                         feats[k].add(v)
             for k, v in feats.items():
                 dep["siblings.%s" % k] = v
+
+            # sentence id
+            dep["sent_id"] = mod["sent_id"]
 
             dependencies.append(dep)
 
