@@ -59,24 +59,33 @@
 #     --dep-constraint=1000 \
 #     --seed=16
 
+python autogramm_activation.py \
+	--treebank /Users/amanda/data/sud-treebanks-v2.14 \
+	--json output/sve_sv.json \
+	--error output/sve_sv.txt \
+	--treebank-filter SUD_Swedish-LinES \
+    --feature-name=gov.position \
+    --feature-value=after_dep \
+    --dep-filter=gov.rel_synt=subj \
+    --feature-filter=gov.rel_synt 
+
 #################
 #  Replication  #
 #################
 
 # Table 2
-python autogramm_activation.py \
-	--treebank /Users/amanda/data/sud-treebanks-v2.14 \
-	--json output/table2_1k_test2.json \
-	--error output/table2_1k_test2.txt \
-	--treebank-filter SUD_Spanish-AnCora \
-    --feature-name=gov.position \
-    --feature-value=after_dep \
-    --dep-filter=gov.upos=NOUN,dep.upos=ADJ \
-    --feature-filter=gov.rel_synt \
-    --dep-constraint=3000 \
-    --seed=16 \
-    --splits=3 \
-    --supplement
+# python autogramm_activation.py \
+# 	--treebank /Users/amanda/data/sud-treebanks-v2.14 \
+# 	--json output/table2_15k_16split.json \
+# 	--error output/table2_15k_16split.txt \
+# 	--treebank-filter SUD_Spanish-AnCora \
+#     --feature-name=gov.position \
+#     --feature-value=after_dep \
+#     --dep-filter=gov.upos=NOUN,dep.upos=ADJ \
+#     --feature-filter=gov.rel_synt \
+#     --dep-constraint=15000 \
+#     --seed=16 \
+#     --splits=3
 
 # Table 3 – not quite the same
 # python autogramm_activation.py \
