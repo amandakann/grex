@@ -1,0 +1,6 @@
+Skipping treebank ey_et because there is no dependency to analyse!
+Skipping treebank ua_et because there is no dependency to analyse!
+Skipping treebank gm_et because there is no extracted feature!
+Skipping treebank pp_et because there is no dependency to analyse!
+Skipping treebank nd_et because there is no extracted feature!
+Skipping treebank /home/akann/data/costep_1.0.1_parsed/et/moveconllus.sh because there is no conllu file!

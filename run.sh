@@ -70,14 +70,14 @@
 #     --feature-filter=gov.rel_synt 
 
 python autogramm_activation.py \
-	--treebank /Users/amanda/data/costep_1.0.1_sv/by_source \
-	--json output/sv_sv.json \
-	--error output/sv_sv.txt \
-	--treebank-filter sv_sv \
+	--treebank /home/akann/data/costep_1.0.1_parsed/et \
+	--json output/et_test.json \
+	--error output/et_test.txt \
     --feature-name=gov.position \
     --feature-value=after_dep \
-    --dep-filter=gov.rel_synt=subj \
-    --feature-filter=gov.rel_synt 
+    --dep-filter=gov.upos=NOUN,dep.upos=NUM \
+    --feature-filter=gov.rel_synt \
+    --alpha-num=50
 
 #################
 #  Replication  #
