@@ -59,11 +59,21 @@
 #     --dep-constraint=1000 \
 #     --seed=16
 
+# python autogramm_activation.py \
+# 	--treebank /Users/amanda/data/sud-treebanks-v2.14 \
+# 	--json output/sve_sv.json \
+# 	--error output/sve_sv.txt \
+# 	--treebank-filter SUD_Swedish-LinES \
+#     --feature-name=gov.position \
+#     --feature-value=after_dep \
+#     --dep-filter=gov.rel_synt=subj \
+#     --feature-filter=gov.rel_synt 
+
 python autogramm_activation.py \
-	--treebank /Users/amanda/data/sud-treebanks-v2.14 \
-	--json output/sve_sv.json \
-	--error output/sve_sv.txt \
-	--treebank-filter SUD_Swedish-LinES \
+	--treebank /Users/amanda/data/costep_1.0.1_sv/by_source \
+	--json output/sv_sv.json \
+	--error output/sv_sv.txt \
+	--treebank-filter sv_sv \
     --feature-name=gov.position \
     --feature-value=after_dep \
     --dep-filter=gov.rel_synt=subj \
